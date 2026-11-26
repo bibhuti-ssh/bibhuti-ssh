@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/wave.svg" alt="ascii wave mesh building itself" width="520" />
+  <h3>hi ! i'm bibhuti</h3>
+  <img src="assets/automata.svg" alt="ascii cellular automaton: ripples growing from simple rules" width="560" />
+  <br/><sub><i>a few rules, endless pattern</i></sub>
 </div>
-
-### hi ! i'm bibhuti
 
 - engineer who cares about art, appreciates beauty & builds with purpose.
 - co-founded [**trxnd.**](https://trxnd.com) · [github](https://github.com/trxnd)
