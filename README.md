@@ -1,16 +1,16 @@
 <div align="center">
   <h3>hi ! i'm bibhuti</h3>
   <img src="assets/automata.svg" alt="ascii cellular automaton: ripples growing from simple rules" width="560" />
-  <br/><sub><i>a few rules, endless pattern</i></sub>
+  <br/><sub><i>living endless pattern</i></sub>
 </div>
-
+<br/>
 - engineer who cares about art, appreciates beauty & builds with purpose.
 - co-founded [**trxnd.**](https://trxnd.com) · [github](https://github.com/trxnd)
 - currently building [**openspline**](https://openspline.dev) · [github](https://github.com/openspline)
 - believer in open source: i contribute to what i care about, and build in the open when i can
-- recreational programmer
+- recreational programmer. (dint we all start out building games? )
 - serial builder, serial shipper, rigorous researcher.
-- high agency and FAFO.
+- high agency & specialise in FAFO. i just get things done.
 - more of me + some writings → [bibhutij.me](https://bibhutij.me)
 
 ### where i've worked
