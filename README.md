@@ -13,6 +13,7 @@
 - recreational programmer. (dint we all start out building games? )
 - serial builder, serial shipper, rigorous researcher.
 - high agency & specialise in FAFO. i just get things done.
+- CS senior at IIT Patna ( if that matters ) 
 - more of me + some writings → [bibhutij.me](https://bibhutij.me)
 
 ### where i've worked
