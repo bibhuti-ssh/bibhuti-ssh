@@ -3,7 +3,9 @@
   <img src="assets/automata.svg" alt="ascii cellular automaton: ripples growing from simple rules" width="560" />
   <br/><sub><i>living endless pattern</i></sub>
 </div>
+
 <br/>
+
 - engineer who cares about art, appreciates beauty & builds with purpose.
 - co-founded [**trxnd.**](https://trxnd.com) · [github](https://github.com/trxnd)
 - currently building [**openspline**](https://openspline.dev) · [github](https://github.com/openspline)
