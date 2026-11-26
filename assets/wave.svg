@@ -1,0 +1,1223 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="518" height="346" viewBox="0 0 518 346">
+<style>text{font:12px ui-monospace,Menlo,Consolas,monospace;fill:#57606a;white-space:pre}@media(prefers-color-scheme:dark){text{fill:#9da7b3}}</style>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0000;0.0156;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                   ...                       +.......</text>
+<text x="0" y="112" xml:space="preserve">                   .. ...............................</text>
+<text x="0" y="126" xml:space="preserve">                  . .................................+</text>
+<text x="0" y="140" xml:space="preserve">                  .....................................</text>
+<text x="0" y="154" xml:space="preserve">                  .  .. ........... .  ................</text>
+<text x="0" y="168" xml:space="preserve">                 ............ ..+.  .....   . ....... ..</text>
+<text x="0" y="182" xml:space="preserve">                 ........ .......................  .....</text>
+<text x="0" y="196" xml:space="preserve">                +.  .................   .   .   .........</text>
+<text x="0" y="210" xml:space="preserve">                ......  .....  .  ............. .   .   .</text>
+<text x="0" y="224" xml:space="preserve">               ..........  ........ .   .   .  .........+.</text>
+<text x="0" y="238" xml:space="preserve">              ......  .......  .    .   .   .   .   ..   .</text>
+<text x="0" y="252" xml:space="preserve">             .... ......   . ..............................</text>
+<text x="0" y="266" xml:space="preserve">            .... ............. .    .   .   ..   . .........</text>
+<text x="0" y="280" xml:space="preserve">           +.  .......... +........................   ..   .</text>
+<text x="0" y="294" xml:space="preserve">            ...........  ..    .    ....+...................+</text>
+<text x="0" y="308" xml:space="preserve">                    .................</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0156;0.0312;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                   ..                       .........</text>
+<text x="0" y="112" xml:space="preserve">                  +..................................</text>
+<text x="0" y="126" xml:space="preserve">                  ....................................</text>
+<text x="0" y="140" xml:space="preserve">                  ............... ....................</text>
+<text x="0" y="154" xml:space="preserve">                 ..  .  ............   ................</text>
+<text x="0" y="168" xml:space="preserve">                 ............  .+  . ....   .  ...... ..</text>
+<text x="0" y="182" xml:space="preserve">                 ........ .......................  .....</text>
+<text x="0" y="196" xml:space="preserve">                ..  ....... .........   .   .   .........</text>
+<text x="0" y="210" xml:space="preserve">                ....... .....  .. ...............   .   .</text>
+<text x="0" y="224" xml:space="preserve">               ..........  ........ .   .   .   ..........</text>
+<text x="0" y="238" xml:space="preserve">               ... .. .......  .    .........+   .   .   .</text>
+<text x="0" y="252" xml:space="preserve">              .. .......   ...........  .    ............+.</text>
+<text x="0" y="266" xml:space="preserve">             .. .............  .    .   . ........+.........</text>
+<text x="0" y="280" xml:space="preserve">            ............  .................  .    .   ..   ..</text>
+<text x="0" y="294" xml:space="preserve">            +......   .... .   .   ...............+..........</text>
+<text x="0" y="308" xml:space="preserve">                  ....+....+...+....</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0312;0.0469;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                  ..                      ..........</text>
+<text x="0" y="112" xml:space="preserve">                  ...................................</text>
+<text x="0" y="126" xml:space="preserve">                  ...................................</text>
+<text x="0" y="140" xml:space="preserve">                  .... ..........  +..................</text>
+<text x="0" y="154" xml:space="preserve">                 .  ................   +...............</text>
+<text x="0" y="168" xml:space="preserve">                 ............   .  . ....   .  .........</text>
+<text x="0" y="182" xml:space="preserve">                 + ...... ........................ .....</text>
+<text x="0" y="196" xml:space="preserve">                ..... ..... .........   .   .   .........</text>
+<text x="0" y="210" xml:space="preserve">                ....... .....   ..................  .   .</text>
+<text x="0" y="224" xml:space="preserve">                .........  .......  .   .   ..  ..........</text>
+<text x="0" y="238" xml:space="preserve">               ..  ..  .....    .  ...............   .   .</text>
+<text x="0" y="252" xml:space="preserve">              +.........   ..........    .   .  ...........</text>
+<text x="0" y="266" xml:space="preserve">             ................   .   . ......................</text>
+<text x="0" y="280" xml:space="preserve">             ......... .  ............   .   ..   ......+....</text>
+<text x="0" y="294" xml:space="preserve">            +......  ..... .    . .......+..........</text>
+<text x="0" y="308" xml:space="preserve">                ...................</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0469;0.0625;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                                        ............</text>
+<text x="0" y="112" xml:space="preserve">                  ..................................</text>
+<text x="0" y="126" xml:space="preserve">                 ....................................</text>
+<text x="0" y="140" xml:space="preserve">                 +   .  ........   ....... ...........</text>
+<text x="0" y="154" xml:space="preserve">                 ...................   ................</text>
+<text x="0" y="168" xml:space="preserve">                 ............   .  . ....   .  .........</text>
+<text x="0" y="182" xml:space="preserve">                 .  ..... ........................ .. ..</text>
+<text x="0" y="196" xml:space="preserve">                ..... ..... ..........  .   .   . .......</text>
+<text x="0" y="210" xml:space="preserve">                ....... .....   ................... .   .</text>
+<text x="0" y="224" xml:space="preserve">                .........   .....   .   ..   .   .........</text>
+<text x="0" y="238" xml:space="preserve">               .. ... .......   . .................  .   ..</text>
+<text x="0" y="252" xml:space="preserve">               ..........  .......  ..   .   .   ..........</text>
+<text x="0" y="266" xml:space="preserve">              ...............   .   ........................</text>
+<text x="0" y="280" xml:space="preserve">             .......   . ........... .   ..   . .............+</text>
+<text x="0" y="294" xml:space="preserve">             +.   . ......  .   ..........+....+.</text>
+<text x="0" y="308" xml:space="preserve">              ....+....+........+.</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0625;0.0781;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                                      .............</text>
+<text x="0" y="112" xml:space="preserve">                 ......................+............</text>
+<text x="0" y="126" xml:space="preserve">                 ..... ................. ............</text>
+<text x="0" y="140" xml:space="preserve">                 .   ...........   ....... ...........</text>
+<text x="0" y="154" xml:space="preserve">                 ...................   ................</text>
+<text x="0" y="168" xml:space="preserve">                 ............  ..  . ....   .  ........</text>
+<text x="0" y="182" xml:space="preserve">                 .  ..... ........................... ..</text>
+<text x="0" y="196" xml:space="preserve">                ........... ..........  .   ..  . .......</text>
+<text x="0" y="210" xml:space="preserve">                ....... .....   ................... .   .</text>
+<text x="0" y="224" xml:space="preserve">                .  ......  ......   ..   .   .   . .......</text>
+<text x="0" y="238" xml:space="preserve">               ......  ......   .......................  ..</text>
+<text x="0" y="252" xml:space="preserve">               .....+.. .  ......    .   .    .   . ........</text>
+<text x="0" y="266" xml:space="preserve">              ...............   . ...........................</text>
+<text x="0" y="280" xml:space="preserve">              .... .   .........+..  .    .  .......+.........</text>
+<text x="0" y="294" xml:space="preserve">             ..   ........  .    .....+.......</text>
+<text x="0" y="308" xml:space="preserve">             +...................+</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0781;0.0938;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                                    ...............</text>
+<text x="0" y="112" xml:space="preserve">                 ...................................</text>
+<text x="0" y="126" xml:space="preserve">                 ..  .  ................ ..+.........</text>
+<text x="0" y="140" xml:space="preserve">                 . .............   ....... ...........</text>
+<text x="0" y="154" xml:space="preserve">                 ....................  ................</text>
+<text x="0" y="168" xml:space="preserve">                 . ..........  ..  .  ...   .  ........</text>
+<text x="0" y="182" xml:space="preserve">                 ........ ........................... ..</text>
+<text x="0" y="196" xml:space="preserve">                ........... ........... .+....  .........</text>
+<text x="0" y="210" xml:space="preserve">                +...... .....   ..........  ..........  .</text>
+<text x="0" y="224" xml:space="preserve">                .   .....  ......    .   .   .   . .......</text>
+<text x="0" y="238" xml:space="preserve">                .....  ......   +......................  ..</text>
+<text x="0" y="252" xml:space="preserve">               ........ . ...... .   .    .   .   .   ......</text>
+<text x="0" y="266" xml:space="preserve">               ............ .    ............................</text>
+<text x="0" y="280" xml:space="preserve">              ..   .    ..........    .   .+.............+....</text>
+<text x="0" y="294" xml:space="preserve">              ............  .    ..........</text>
+<text x="0" y="308" xml:space="preserve">              +....+....+........</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0938;0.1094;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                                  .................</text>
+<text x="0" y="112" xml:space="preserve">                 .......+..........................</text>
+<text x="0" y="126" xml:space="preserve">                 .  .   +............... ............</text>
+<text x="0" y="140" xml:space="preserve">                 ...............   ....... ...........</text>
+<text x="0" y="154" xml:space="preserve">                 ....................  ...............</text>
+<text x="0" y="168" xml:space="preserve">                 .  .......+.  ..  .  ...   .  ........</text>
+<text x="0" y="182" xml:space="preserve">                ......... ........................... ..</text>
+<text x="0" y="196" xml:space="preserve">                ........... .............+....  .. ......</text>
+<text x="0" y="210" xml:space="preserve">                . ..... .....  ......... .   .........  .</text>
+<text x="0" y="224" xml:space="preserve">                ..  .....  .......   ..........  .. ......</text>
+<text x="0" y="238" xml:space="preserve">                ..... ..... .  ........   .  ..............</text>
+<text x="0" y="252" xml:space="preserve">               ........ . ...... .   ..  .......  ..  ......</text>
+<text x="0" y="266" xml:space="preserve">               ............ ..  ............  ................</text>
+<text x="0" y="280" xml:space="preserve">               .   ..   ..........    .  .....................</text>
+<text x="0" y="294" xml:space="preserve">              ............   .  ..+......</text>
+<text x="0" y="308" xml:space="preserve">              +..................</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1094;0.1250;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                                 .................</text>
+<text x="0" y="112" xml:space="preserve">                 ....  ............................</text>
+<text x="0" y="126" xml:space="preserve">                 .  ..........+.........  ..........</text>
+<text x="0" y="140" xml:space="preserve">                 ...............   . ..... ..........</text>
+<text x="0" y="154" xml:space="preserve">                ...................... . .............</text>
+<text x="0" y="168" xml:space="preserve">                .   .........  .   .  ...   .  ........</text>
+<text x="0" y="182" xml:space="preserve">                ......... ........................... ..</text>
+<text x="0" y="196" xml:space="preserve">                ........... +.................. .. ......</text>
+<text x="0" y="210" xml:space="preserve">                . ..... .....  ......... .   .........  .</text>
+<text x="0" y="224" xml:space="preserve">                ... ..... ...... .  ............ ..  .....</text>
+<text x="0" y="238" xml:space="preserve">                ..... ..... ...........   .   .............</text>
+<text x="0" y="252" xml:space="preserve">                ....... . .....  .    ..............  ..  ..</text>
+<text x="0" y="266" xml:space="preserve">               +..........   . ........    .   .. ............</text>
+<text x="0" y="280" xml:space="preserve">               .    .   ........  .   ......+........+........+</text>
+<text x="0" y="294" xml:space="preserve">               ...........   .  ........</text>
+<text x="0" y="308" xml:space="preserve">               .    .   .+.......</text>
+<text x="0" y="322" xml:space="preserve">               +....+...</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1250;0.1406;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                                ..................</text>
+<text x="0" y="112" xml:space="preserve">                +.     +...........................</text>
+<text x="0" y="126" xml:space="preserve">                ...............+.......   ..........</text>
+<text x="0" y="140" xml:space="preserve">                .......+........   . ................</text>
+<text x="0" y="154" xml:space="preserve">                . .................... . .............</text>
+<text x="0" y="168" xml:space="preserve">                ... .........  .   .  .... ..  ........</text>
+<text x="0" y="182" xml:space="preserve">                ......... ........ .................. ..</text>
+<text x="0" y="196" xml:space="preserve">                ........... ...................... ......</text>
+<text x="0" y="210" xml:space="preserve">                . ........... .........  ..  .........  .</text>
+<text x="0" y="224" xml:space="preserve">                ... ..... .....  . ................  .....</text>
+<text x="0" y="238" xml:space="preserve">                ..... ....   .......  .   ..  .. ..........</text>
+<text x="0" y="252" xml:space="preserve">                ....... ......   ..  ...............  ..  ..</text>
+<text x="0" y="266" xml:space="preserve">               ..  .......   . ...... ..   ..  ..   ..........</text>
+<text x="0" y="280" xml:space="preserve">               ......    ......   .    ..........+............+</text>
+<text x="0" y="294" xml:space="preserve">               ...........   .. .......</text>
+<text x="0" y="308" xml:space="preserve">               .    .    .....+.</text>
+<text x="0" y="322" xml:space="preserve">               +.........</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1406;0.1562;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                              ....................</text>
+<text x="0" y="112" xml:space="preserve">                       ............................</text>
+<text x="0" y="126" xml:space="preserve">                ...............+.......   ..........</text>
+<text x="0" y="140" xml:space="preserve">                ................  ..  ...............</text>
+<text x="0" y="154" xml:space="preserve">                .  ....+.... ......... . .............</text>
+<text x="0" y="168" xml:space="preserve">                .............  .   .   ... ..  ........</text>
+<text x="0" y="182" xml:space="preserve">                ......... ........ . ................ ..</text>
+<text x="0" y="196" xml:space="preserve">                ..........  ...................... .....</text>
+<text x="0" y="210" xml:space="preserve">                ............. .........  ..  .. ......  .</text>
+<text x="0" y="224" xml:space="preserve">                ... ...........  ..................  .....</text>
+<text x="0" y="238" xml:space="preserve">                ..... ....   ......   .   ..   .  .........</text>
+<text x="0" y="252" xml:space="preserve">                ......  ......    .................... .. ..</text>
+<text x="0" y="266" xml:space="preserve">                .  .......   .......   .   ..   ..  ..........</text>
+<text x="0" y="280" xml:space="preserve">                .....    ......   ..  ..+.................+....</text>
+<text x="0" y="294" xml:space="preserve">               ...........    . .......</text>
+<text x="0" y="308" xml:space="preserve">               .    .    ........</text>
+<text x="0" y="322" xml:space="preserve">               +..........</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1562;0.1719;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                             ....................</text>
+<text x="0" y="112" xml:space="preserve">                       +..........................</text>
+<text x="0" y="126" xml:space="preserve">                ...............+.......   . ........</text>
+<text x="0" y="140" xml:space="preserve">                ................  ..  ...............</text>
+<text x="0" y="154" xml:space="preserve">                .  ....+.... ...........  ............</text>
+<text x="0" y="168" xml:space="preserve">                .............. .   .   ... ..  ........</text>
+<text x="0" y="182" xml:space="preserve">                .................  . ................ ..</text>
+<text x="0" y="196" xml:space="preserve">                .......... ....................... .....</text>
+<text x="0" y="210" xml:space="preserve">                .......................   .   . .........</text>
+<text x="0" y="224" xml:space="preserve">                ..............   .+................  .....</text>
+<text x="0" y="238" xml:space="preserve">                ..........   ......   ..   .   .  +........</text>
+<text x="0" y="252" xml:space="preserve">                ......  ......    ....................... ...</text>
+<text x="0" y="266" xml:space="preserve">                .   ......    +.....   ..   .   ..  .. ........</text>
+<text x="0" y="280" xml:space="preserve">                .....    ......    .  .......+............+....</text>
+<text x="0" y="294" xml:space="preserve">                +.........    . ......</text>
+<text x="0" y="308" xml:space="preserve">                .    .   .......</text>
+<text x="0" y="322" xml:space="preserve">                +....+....+</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1719;0.1875;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                             ....................</text>
+<text x="0" y="112" xml:space="preserve">                      +............. .............</text>
+<text x="0" y="126" xml:space="preserve">                .......................  ...........</text>
+<text x="0" y="140" xml:space="preserve">                +...............  ..  +..............</text>
+<text x="0" y="154" xml:space="preserve">                .  .........   .  ......  ............</text>
+<text x="0" y="168" xml:space="preserve">                ....................   +.....  ........</text>
+<text x="0" y="182" xml:space="preserve">                +......+........+  . ................ ..</text>
+<text x="0" y="196" xml:space="preserve">                .......... ....................... .....</text>
+<text x="0" y="210" xml:space="preserve">                ...... .... .+.........   .   .  ........</text>
+<text x="0" y="224" xml:space="preserve">                ....... +.....  ...................+ .....</text>
+<text x="0" y="238" xml:space="preserve">                ..........  ..... .    .   .   ..  ........</text>
+<text x="0" y="252" xml:space="preserve">                ......  .......   ....................... ...</text>
+<text x="0" y="266" xml:space="preserve">                .  .......   .......   ..   ..  ..  ..  .......</text>
+<text x="0" y="280" xml:space="preserve">                .... .   ......    . ........+........+........</text>
+<text x="0" y="294" xml:space="preserve">                . .........   ........</text>
+<text x="0" y="308" xml:space="preserve">                ...  .    .....+</text>
+<text x="0" y="322" xml:space="preserve">                ...........</text>
+<text x="0" y="336" xml:space="preserve">                +.</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1875;0.2031;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                            .....................</text>
+<text x="0" y="112" xml:space="preserve">                      .............. .............</text>
+<text x="0" y="126" xml:space="preserve">                ........................ ...........</text>
+<text x="0" y="140" xml:space="preserve">                ................  .   ...............</text>
+<text x="0" y="154" xml:space="preserve">                .. +........   .  ......   ...........</text>
+<text x="0" y="168" xml:space="preserve">                ....................   ......  .......+</text>
+<text x="0" y="182" xml:space="preserve">                +................  . ...............  ..</text>
+<text x="0" y="196" xml:space="preserve">                ..................................  ....</text>
+<text x="0" y="210" xml:space="preserve">                ........... ........... .......  ........</text>
+<text x="0" y="224" xml:space="preserve">                ....... ......  ........   . .............</text>
+<text x="0" y="238" xml:space="preserve">                ... ...... .....  .    ..........  ........</text>
+<text x="0" y="252" xml:space="preserve">                .....   ....  .  ........   .  ..............</text>
+<text x="0" y="266" xml:space="preserve">                .  ..... .   ..... .    .   .. ...   .. .......</text>
+<text x="0" y="280" xml:space="preserve">                .... .   .... .    ............  ..............</text>
+<text x="0" y="294" xml:space="preserve">                .  ...... .    .....+</text>
+<text x="0" y="308" xml:space="preserve">                .... .    ......</text>
+<text x="0" y="322" xml:space="preserve">                .  ........</text>
+<text x="0" y="336" xml:space="preserve">                +...</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2031;0.2188;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                           ......................</text>
+<text x="0" y="112" xml:space="preserve">                      .............. .  ..........</text>
+<text x="0" y="126" xml:space="preserve">               .............. . ...................</text>
+<text x="0" y="140" xml:space="preserve">               .................  .   . .............</text>
+<text x="0" y="154" xml:space="preserve">                .. .........   .  ......  ............</text>
+<text x="0" y="168" xml:space="preserve">                .......+.............  ......  .......+</text>
+<text x="0" y="182" xml:space="preserve">                +................  .  ..............  .</text>
+<text x="0" y="196" xml:space="preserve">                ......... ........................  ....</text>
+<text x="0" y="210" xml:space="preserve">                ..........  .................... ........</text>
+<text x="0" y="224" xml:space="preserve">                ......  .... . .........   .  ............</text>
+<text x="0" y="238" xml:space="preserve">                ... .... . .....  ..  ...........  .........</text>
+<text x="0" y="252" xml:space="preserve">                ...... ....   .  ........   ..  .............</text>
+<text x="0" y="266" xml:space="preserve">                .  ..... .  .....  .    .   ......+. .. .......</text>
+<text x="0" y="280" xml:space="preserve">                .... .   .... ..   .+....+...       ...........</text>
+<text x="0" y="294" xml:space="preserve">                .  ...... .    +.....</text>
+<text x="0" y="308" xml:space="preserve">                .... .    ......</text>
+<text x="0" y="322" xml:space="preserve">                .    ......</text>
+<text x="0" y="336" xml:space="preserve">                +....</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2188;0.2344;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                           ..........+...........</text>
+<text x="0" y="112" xml:space="preserve">                      .............. . ...........</text>
+<text x="0" y="126" xml:space="preserve">               .............. . ...................</text>
+<text x="0" y="140" xml:space="preserve">               .. ............... .   . .............</text>
+<text x="0" y="154" xml:space="preserve">                ............   .  .. .... .. ..+ .....</text>
+<text x="0" y="168" xml:space="preserve">                ...+.................  ......  ........</text>
+<text x="0" y="182" xml:space="preserve">                +................  .  ... ..........  .</text>
+<text x="0" y="196" xml:space="preserve">                ..................................  ....</text>
+<text x="0" y="210" xml:space="preserve">                .......... ..................... ........</text>
+<text x="0" y="224" xml:space="preserve">                ...... ....  ........  .   ..  ...........</text>
+<text x="0" y="238" xml:space="preserve">                ... .... ......   .. ............. .........</text>
+<text x="0" y="252" xml:space="preserve">                ...... ....   . ......  .   ..  .............</text>
+<text x="0" y="266" xml:space="preserve">                .  ..... .. ....   ..   .. .......+.... ... ...</text>
+<text x="0" y="280" xml:space="preserve">                .... .  .....  .    .....+..        ...........</text>
+<text x="0" y="294" xml:space="preserve">                .  ...... .    .....</text>
+<text x="0" y="308" xml:space="preserve">                .... .    +.....</text>
+<text x="0" y="322" xml:space="preserve">                 ==  .+....</text>
+<text x="0" y="336" xml:space="preserve">                 ==+..</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2344;0.2500;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                          ...........+..........</text>
+<text x="0" y="112" xml:space="preserve">                     .............................</text>
+<text x="0" y="126" xml:space="preserve">               .............. .  ..................</text>
+<text x="0" y="140" xml:space="preserve">               .  .................   .  ............</text>
+<text x="0" y="154" xml:space="preserve">               ... ....... .   .  .. .......  .. .....</text>
+<text x="0" y="168" xml:space="preserve">                ........................ .............</text>
+<text x="0" y="182" xml:space="preserve">                +................  .  ..............  .</text>
+<text x="0" y="196" xml:space="preserve">                .................................. .....</text>
+<text x="0" y="210" xml:space="preserve">                ................................ ........</text>
+<text x="0" y="224" xml:space="preserve">                .....  ....  .+......  .   ..  ...........</text>
+<text x="0" y="238" xml:space="preserve">                .. ....  ......    .........................</text>
+<text x="0" y="252" xml:space="preserve">                .... .....    .......   .   ..  .............</text>
+<text x="0" y="266" xml:space="preserve">                .  ....  .. ....   ..   ..........+....  .. ...</text>
+<text x="0" y="280" xml:space="preserve">                +++++.  ....   .   ......+.         ...........</text>
+<text x="0" y="294" xml:space="preserve">                +++++++++ .    .....</text>
+<text x="0" y="308" xml:space="preserve">                ++++++++++++...</text>
+<text x="0" y="322" xml:space="preserve">                 =+++++++++</text>
+<text x="0" y="336" xml:space="preserve">                 =++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2500;0.2656;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                          .................... .</text>
+<text x="0" y="112" xml:space="preserve">                     .............................</text>
+<text x="0" y="126" xml:space="preserve">               .............. .   .................</text>
+<text x="0" y="140" xml:space="preserve">               .  ..................  .  ............</text>
+<text x="0" y="154" xml:space="preserve">               ... ....... .   .  .   ......  ........</text>
+<text x="0" y="168" xml:space="preserve">                ........................  ............</text>
+<text x="0" y="182" xml:space="preserve">                .................  .   ... ......... ..</text>
+<text x="0" y="196" xml:space="preserve">                .................................. .....</text>
+<text x="0" y="210" xml:space="preserve">                +............................... ........</text>
+<text x="0" y="224" xml:space="preserve">                ..... ....   .......   .   ..  ...........</text>
+<text x="0" y="238" xml:space="preserve">                *******++......    .........................</text>
+<text x="0" y="252" xml:space="preserve">                ****+++++=====......    .   ..   ............</text>
+<text x="0" y="266" xml:space="preserve">                ++++++++======---- ..   ...............  .. ...</text>
+<text x="0" y="280" xml:space="preserve">                +++++++=======------.....+          ...........</text>
+<text x="0" y="294" xml:space="preserve">                +++++++=========----</text>
+<text x="0" y="308" xml:space="preserve">                 =++++++++=====</text>
+<text x="0" y="322" xml:space="preserve">                 =++++++++=</text>
+<text x="0" y="336" xml:space="preserve">                 =++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2656;0.2812;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                         +...................  +</text>
+<text x="0" y="112" xml:space="preserve">                     .............................</text>
+<text x="0" y="126" xml:space="preserve">               .............. .  .. ...............</text>
+<text x="0" y="140" xml:space="preserve">               . .................... .  ...........</text>
+<text x="0" y="154" xml:space="preserve">                .......... .   .  .   ......  . ......</text>
+<text x="0" y="168" xml:space="preserve">                ........................  ............</text>
+<text x="0" y="182" xml:space="preserve">                ................   .   ............. ..</text>
+<text x="0" y="196" xml:space="preserve">                .######*.......................... .....</text>
+<text x="0" y="210" xml:space="preserve">                #####************............... ........</text>
+<text x="0" y="224" xml:space="preserve">                ##********++++++++==== .   ..  ...........</text>
+<text x="0" y="238" xml:space="preserve">                *****+++++++======----;;....................</text>
+<text x="0" y="252" xml:space="preserve">                **++++++=======-----;;;;;:: ..   . ..........</text>
+<text x="0" y="266" xml:space="preserve">                ++++++======-------;;;;;;;:::.....+....  .. ...</text>
+<text x="0" y="280" xml:space="preserve">                +++++=======--------;;;;;;          ...........</text>
+<text x="0" y="294" xml:space="preserve">                +++++=========-----</text>
+<text x="0" y="308" xml:space="preserve">                +++++++========</text>
+<text x="0" y="322" xml:space="preserve">                 ++++++++==</text>
+<text x="0" y="336" xml:space="preserve">                 +++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2812;0.2969;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                                ...</text>
+<text x="0" y="98" xml:space="preserve">                         ....................</text>
+<text x="0" y="112" xml:space="preserve">                     .............................</text>
+<text x="0" y="126" xml:space="preserve">               .............. .  ..  ..............</text>
+<text x="0" y="140" xml:space="preserve">               ........................  ..  .+......</text>
+<text x="0" y="154" xml:space="preserve">                .......... .  ..  .   ....... .......</text>
+<text x="0" y="168" xml:space="preserve">                ..####***..........+....  .+..........</text>
+<text x="0" y="182" xml:space="preserve">                ######**++=-;. .   .   ............. ..</text>
+<text x="0" y="196" xml:space="preserve">                #######****+++==-........+........ .....</text>
+<text x="0" y="210" xml:space="preserve">                ####***********++++++++===-..... ........</text>
+<text x="0" y="224" xml:space="preserve">                *********++++++++====-----;;:: ...........</text>
+<text x="0" y="238" xml:space="preserve">                ****++++++=======-----;;;;::::,,,.... ......</text>
+<text x="0" y="252" xml:space="preserve">                *++++++======------;;;;;:::::,,,,,,..........</text>
+<text x="0" y="266" xml:space="preserve">                +++++======-------;;;;;;::::::,,,,,,:..  .. ...</text>
+<text x="0" y="280" xml:space="preserve">                ++++======--------;;;;;;:          ::..........</text>
+<text x="0" y="294" xml:space="preserve">                +++=========-------</text>
+<text x="0" y="308" xml:space="preserve">                +++++========-</text>
+<text x="0" y="322" xml:space="preserve">                 +++++++==</text>
+<text x="0" y="336" xml:space="preserve">                 +++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2969;0.3125;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                               .....</text>
+<text x="0" y="98" xml:space="preserve">                         ....................</text>
+<text x="0" y="112" xml:space="preserve">                    ..............................</text>
+<text x="0" y="126" xml:space="preserve">               +............. .  ..  . ............</text>
+<text x="0" y="140" xml:space="preserve">                +**###**++.............. ..  . ......</text>
+<text x="0" y="154" xml:space="preserve">                **####**+=-;: ..  .   . ..............</text>
+<text x="0" y="168" xml:space="preserve">                ######**+=-;,,.....+..... ............</text>
+<text x="0" y="182" xml:space="preserve">                ######**++=-;,,.....   ...... ...... ..</text>
+<text x="0" y="196" xml:space="preserve">                ######*****++==-;:;......*+++...........</text>
+<text x="0" y="210" xml:space="preserve">                ###***********++++++++=====---;;:........</text>
+<text x="0" y="224" xml:space="preserve">                *******+++++++++======----;;;:::,,,,......</text>
+<text x="0" y="238" xml:space="preserve">                **+++++++========----;;;;;:::,,,,,..........</text>
+<text x="0" y="252" xml:space="preserve">                +++++=======------;;;;;:::::,,,,,,,,,,,,:....</text>
+<text x="0" y="266" xml:space="preserve">                ++++======------;;;;;;::::::,,,,,,,,,,::;;--...</text>
+<text x="0" y="280" xml:space="preserve">                +++======-------;;;;;;;::         ,,,:::;--==..</text>
+<text x="0" y="294" xml:space="preserve">                ++========-------;</text>
+<text x="0" y="308" xml:space="preserve">                +++=========--</text>
+<text x="0" y="322" xml:space="preserve">                +++++++===</text>
+<text x="0" y="336" xml:space="preserve">                 ++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3125;0.3281;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                               .....</text>
+<text x="0" y="98" xml:space="preserve">                        .....................</text>
+<text x="0" y="112" xml:space="preserve">                    **###**++.....................</text>
+<text x="0" y="126" xml:space="preserve">                =+***##**+==-;:,  .  .   ..........</text>
+<text x="0" y="140" xml:space="preserve">                +**###**+==;:,.............  . ......</text>
+<text x="0" y="154" xml:space="preserve">                *#####**+=-;,......   .  .............</text>
+<text x="0" y="168" xml:space="preserve">                #####***+=-:,.......,:...... .........</text>
+<text x="0" y="182" xml:space="preserve">                #####***++-;:,....,;;=++**###* ........</text>
+<text x="0" y="196" xml:space="preserve">                #####*****+++==-::;-=*###***+++=--;.....</text>
+<text x="0" y="210" xml:space="preserve">                ##***********++++++++======---;;;::,,,...</text>
+<text x="0" y="224" xml:space="preserve">                *****++++++++++=======----;;;::::,,,,,,,..</text>
+<text x="0" y="238" xml:space="preserve">                *+++++++=======------;;;;::::,,,,,,..,,,,:;.</text>
+<text x="0" y="252" xml:space="preserve">                ++++=======------;;;;;;::::,,,,,,..,,,,,::;-=</text>
+<text x="0" y="266" xml:space="preserve">                ++======-------;;;;;::::::,,,,,,,,,,,,:::;--=++</text>
+<text x="0" y="280" xml:space="preserve">                +=======-------;;;;;;::::        ,,,,,::;;-==++</text>
+<text x="0" y="294" xml:space="preserve">                +========-------;;</text>
+<text x="0" y="308" xml:space="preserve">                +++========--</text>
+<text x="0" y="322" xml:space="preserve">                ++++++===</text>
+<text x="0" y="336" xml:space="preserve">                +++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3281;0.3438;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                              ......</text>
+<text x="0" y="98" xml:space="preserve">                        ###**++==............</text>
+<text x="0" y="112" xml:space="preserve">                    **##***+=--;:::::.............</text>
+<text x="0" y="126" xml:space="preserve">                =+**###**+=-;::,,...,,,  . ..+......</text>
+<text x="0" y="140" xml:space="preserve">                +**###**+=-;:,.......,,:;;.. ........</text>
+<text x="0" y="154" xml:space="preserve">                *#####**+=;:,........,::;--===........</text>
+<text x="0" y="168" xml:space="preserve">                #####**+=-;:,.......::;-==++++++=-....</text>
+<text x="0" y="182" xml:space="preserve">                #####**++=-;:,...,::-==+**###**++=-;:..</text>
+<text x="0" y="196" xml:space="preserve">                #####*****++==--::;==+*###***+++=--;:::.</text>
+<text x="0" y="210" xml:space="preserve">                ************++++++++++=======---;;:::,,,:</text>
+<text x="0" y="224" xml:space="preserve">                ***+++++++++++========----;;;;::::,,,,,,::</text>
+<text x="0" y="238" xml:space="preserve">                ++++++=========-----;;;;;::::,,,,,,,,,,,::;-</text>
+<text x="0" y="252" xml:space="preserve">                +++=======-------;;;;;::::,,,,,,....,,,,::;-=</text>
+<text x="0" y="266" xml:space="preserve">                +======-------;;;;;;:::::,,,,,,,,.,,,,,::;--=+</text>
+<text x="0" y="280" xml:space="preserve">                ======--------;;;;;;:::::       ,,,,,,::;;--=++</text>
+<text x="0" y="294" xml:space="preserve">                =======-------;;;</text>
+<text x="0" y="308" xml:space="preserve">                ++=======----</text>
+<text x="0" y="322" xml:space="preserve">                +++++===</text>
+<text x="0" y="336" xml:space="preserve">                ++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3438;0.3594;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                              *+++=..</text>
+<text x="0" y="98" xml:space="preserve">                        ##**++===-------.....</text>
+<text x="0" y="112" xml:space="preserve">                    **##**++=-;;:::::::;;;;.......</text>
+<text x="0" y="126" xml:space="preserve">                ++**###**+=;;:,,....,,,::;;;;;......</text>
+<text x="0" y="140" xml:space="preserve">                **####**+=-;:,.......,,:;;;-----;....</text>
+<text x="0" y="154" xml:space="preserve">                #####**+=-;:,........,:;;-======--;;..</text>
+<text x="0" y="168" xml:space="preserve">                #####**+=-;:,......,::;-==+++++===-;:::</text>
+<text x="0" y="182" xml:space="preserve">                ####***++=-;:,..,,:;;-=+***#***+==-;;::</text>
+<text x="0" y="196" xml:space="preserve">                ###******+++==-;:;-=-=**###***+++=-;;:::</text>
+<text x="0" y="210" xml:space="preserve">                *********+++++++++++==========---;;;:::::</text>
+<text x="0" y="224" xml:space="preserve">                **+++++++++++=========-----;;;;::::,,,,,::</text>
+<text x="0" y="238" xml:space="preserve">                +++++========-------;;;;;:::::,,,,,,,,,,::;-</text>
+<text x="0" y="252" xml:space="preserve">                +=======-------;;;;;;:::::,,,,,,....,,,,::;-=</text>
+<text x="0" y="266" xml:space="preserve">                ======-------;;;;;;:::::,,,,,,.....,,,,::;;-=+</text>
+<text x="0" y="280" xml:space="preserve">                =====-------;;;;;;;:::::,     .....,,,::;;-==++</text>
+<text x="0" y="294" xml:space="preserve">                ======--------;;;</text>
+<text x="0" y="308" xml:space="preserve">                +=======----</text>
+<text x="0" y="322" xml:space="preserve">                +++++===</text>
+<text x="0" y="336" xml:space="preserve">                +++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3594;0.3750;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                             *++++===</text>
+<text x="0" y="98" xml:space="preserve">                        ##**++=-----------;..</text>
+<text x="0" y="112" xml:space="preserve">                   ***##**+=--;::::::::;;;;;;;;....</text>
+<text x="0" y="126" xml:space="preserve">                ++**##**++=-;:,,.....,,::;;;--;;;;;.</text>
+<text x="0" y="140" xml:space="preserve">                *#####*++=-;,,........,::;;------;;;;</text>
+<text x="0" y="154" xml:space="preserve">                #####**+=-;:,.......,,,:;--=====--;;;;</text>
+<text x="0" y="168" xml:space="preserve">                ####**++=;:,.......,,:;--=+++++++=--;;;</text>
+<text x="0" y="182" xml:space="preserve">                ####***++=-:,,,,,:;;--==+*******++=-;;;</text>
+<text x="0" y="196" xml:space="preserve">                ##******++++=--;:;-=--+**###***++==-;;::</text>
+<text x="0" y="210" xml:space="preserve">                *******+++++++++++==============--;;;::::</text>
+<text x="0" y="224" xml:space="preserve">               *++++++++++===========-------;;;;::::::::::</text>
+<text x="0" y="238" xml:space="preserve">               ++++=========--------;;;;;;:::::,,,,,,,,:::;-</text>
+<text x="0" y="252" xml:space="preserve">               +=======-------;;;;;;::::::,,,,,,,,,,,,,,::;-=</text>
+<text x="0" y="266" xml:space="preserve">               ======-------;;;;;;:::::,,,,,,.......,,,::;;-=+</text>
+<text x="0" y="280" xml:space="preserve">                ====-------;;;;;;::::::,,,,,,......,,,::;;--=++</text>
+<text x="0" y="294" xml:space="preserve">                =====-------;;;;</text>
+<text x="0" y="308" xml:space="preserve">                =======----</text>
+<text x="0" y="322" xml:space="preserve">                +++====</text>
+<text x="0" y="336" xml:space="preserve">                ++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3750;0.3906;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                             *++++===</text>
+<text x="0" y="98" xml:space="preserve">                       *#***++=--------------</text>
+<text x="0" y="112" xml:space="preserve">                   **###**+==;;:::,::::;;;;---;---=</text>
+<text x="0" y="126" xml:space="preserve">                +**###**++=-;:,,.....,,::;;;----;;--</text>
+<text x="0" y="140" xml:space="preserve">                *####**+=-;:,.........,,:;;-------;;;</text>
+<text x="0" y="154" xml:space="preserve">                ####***+-;:,,........,::;;--=====--;;;</text>
+<text x="0" y="168" xml:space="preserve">                ####**+=-;:,......,,::;;-==++++++=--;;;</text>
+<text x="0" y="182" xml:space="preserve">                ###****+=-;:,,,,::;---==++******++==-;;;</text>
+<text x="0" y="196" xml:space="preserve">               #********+++==-;::;-=;;=+*####***++==-;;;</text>
+<text x="0" y="210" xml:space="preserve">               ****+++++++++++++=========+++++===---;;;:;</text>
+<text x="0" y="224" xml:space="preserve">               +++++++++===============-------;;;;;::::::;</text>
+<text x="0" y="238" xml:space="preserve">               ++===========---------;;;;;:::::::,,,,,::::;-</text>
+<text x="0" y="252" xml:space="preserve">               ======---------;;;;;;::::::,,,,,,,,,,,,,::;;-=</text>
+<text x="0" y="266" xml:space="preserve">               =====-------;;;;;;:::::,,,,,,,......,,,,::;;-=+</text>
+<text x="0" y="280" xml:space="preserve">               =====------;;;;;;;:::::,,,,,,.......,,,::;;--=++</text>
+<text x="0" y="294" xml:space="preserve">               ======------;;;;</text>
+<text x="0" y="308" xml:space="preserve">               +=======---</text>
+<text x="0" y="322" xml:space="preserve">               ++++===</text>
+<text x="0" y="336" xml:space="preserve">               ++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3906;0.4062;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                             **+++==</text>
+<text x="0" y="98" xml:space="preserve">                       *#***+==---;;;---------</text>
+<text x="0" y="112" xml:space="preserve">                   **##**++=-;;::,,,:::;;;;------==</text>
+<text x="0" y="126" xml:space="preserve">                 **###**+=-;::,......,,::;;;--------</text>
+<text x="0" y="140" xml:space="preserve">                 ####*+==-;:,.........,::;;----------</text>
+<text x="0" y="154" xml:space="preserve">                ####**+=-;:,.........,,:;;--======---;</text>
+<text x="0" y="168" xml:space="preserve">                ###**++=-;:,......,,::;--==+++++++=---;</text>
+<text x="0" y="182" xml:space="preserve">                ##****++=-;:,,,,:;----==++*******+==--;;</text>
+<text x="0" y="196" xml:space="preserve">               *******++++==--;:;;==;:-+**####***++=--;;</text>
+<text x="0" y="210" xml:space="preserve">               **+++++++++++++==========++++++++===--;;;;</text>
+<text x="0" y="224" xml:space="preserve">               ++++++=====================-------;;;;:::;;</text>
+<text x="0" y="238" xml:space="preserve">               +==========-----------;;;;;;;;;:::::::::::;;</text>
+<text x="0" y="252" xml:space="preserve">               ======--------;;;;;;;;:::::::,,,,,,,,,,,::;;-</text>
+<text x="0" y="266" xml:space="preserve">               ====-------;;;;;;;::::::,,,,,,......,,,,::;;-==</text>
+<text x="0" y="280" xml:space="preserve">               ====------;;;;;;;:::::,,,,,,,.......,,,::;;--=+</text>
+<text x="0" y="294" xml:space="preserve">               ======-----;;;;                          ;;-</text>
+<text x="0" y="308" xml:space="preserve">               +======---</text>
+<text x="0" y="322" xml:space="preserve">               +++===</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4062;0.4219;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                             *+++===</text>
+<text x="0" y="98" xml:space="preserve">                       ****++=---;;;;;--------</text>
+<text x="0" y="112" xml:space="preserve">                   **##**++=-;;:,,,,::::;;-------==</text>
+<text x="0" y="126" xml:space="preserve">                 *####**==-;:,,......,,::;;;--------</text>
+<text x="0" y="140" xml:space="preserve">                 ####*++=-::,.........,,:;;----------</text>
+<text x="0" y="154" xml:space="preserve">                ###**++=;::,.........,:::;--=======---</text>
+<text x="0" y="168" xml:space="preserve">                ###**+=-;:,,.....,,,::;;-===++++++==---</text>
+<text x="0" y="182" xml:space="preserve">               ##****++==-;:,,,:;--=---==+********+==---</text>
+<text x="0" y="196" xml:space="preserve">               ******+++++==-;::;-==;,;=+*#####***++=---;</text>
+<text x="0" y="210" xml:space="preserve">               +++++++++++++======---==+++****++++==---;;</text>
+<text x="0" y="224" xml:space="preserve">               +++=============================----;;;;;;;</text>
+<text x="0" y="238" xml:space="preserve">               =========----------------;;;;;;;;;:::::::;;;</text>
+<text x="0" y="252" xml:space="preserve">               ====-----------;;;;;;;::::::::,,,,,,,,::::;;-</text>
+<text x="0" y="266" xml:space="preserve">               ===--------;;;;;;::::::,,,,,,,,,,,,,,,,:::;;-=</text>
+<text x="0" y="280" xml:space="preserve">               ====------;;;;;;::::::,,,,,,,.......,,,:::;--=+</text>
+<text x="0" y="294" xml:space="preserve">               =====-----;;;;                        ,::;;--=+</text>
+<text x="0" y="308" xml:space="preserve">              +++=====--</text>
+<text x="0" y="322" xml:space="preserve">              ++++=</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4219;0.4375;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                             *+++===</text>
+<text x="0" y="98" xml:space="preserve">                       ****++=---;;;;;;-------</text>
+<text x="0" y="112" xml:space="preserve">                  **###**++--;::,,,,,:::;;;------===</text>
+<text x="0" y="126" xml:space="preserve">                 *####*++=-;:,,......,,::;;---------=</text>
+<text x="0" y="140" xml:space="preserve">                 ###**+=-;:,,.........,,:;;---====---</text>
+<text x="0" y="154" xml:space="preserve">                ###**+=-;:,,.........,,:;;--========--</text>
+<text x="0" y="168" xml:space="preserve">                ##**++=-;:,,....,,,:::;;--==+++++++==--</text>
+<text x="0" y="182" xml:space="preserve">               ******++=-;:,,,,:;-==---==++*******++==--</text>
+<text x="0" y="196" xml:space="preserve">               ****++++++==--;::;-=-:,:-=**#####**+++==--</text>
+<text x="0" y="210" xml:space="preserve">               +++++++++++======-----==++*******+++==-----</text>
+<text x="0" y="224" xml:space="preserve">               +==================================---;;;;;</text>
+<text x="0" y="238" xml:space="preserve">               ========----------------------;;;;;;;;;;;;;;</text>
+<text x="0" y="252" xml:space="preserve">               ====----------;;;;;;;;;;;::::::::::::::::;;;-</text>
+<text x="0" y="266" xml:space="preserve">              ====-------;;;;;;;:::::::,,,,,,,,,,,,,,,::;;;-=</text>
+<text x="0" y="280" xml:space="preserve">              ====-------;;;;;;::::::,,,,,,,......,,,,::;;--=+</text>
+<text x="0" y="294" xml:space="preserve">              ======-----;;;                       ,,,::;;--=+</text>
+<text x="0" y="308" xml:space="preserve">              +++====--</text>
+<text x="0" y="322" xml:space="preserve">              ++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4375;0.4531;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                              +++==</text>
+<text x="0" y="98" xml:space="preserve">                       ****++=--;;;;;;-------=</text>
+<text x="0" y="112" xml:space="preserve">                  **###*++=--;::,,,,,:::;;;-----====</text>
+<text x="0" y="126" xml:space="preserve">                 ####**+=-;::,.......,,,:;;--------==</text>
+<text x="0" y="140" xml:space="preserve">                 ###*++=-;:,..........,,::;---=====---</text>
+<text x="0" y="154" xml:space="preserve">                ##**++-;::,..........,,::;--=========-</text>
+<text x="0" y="168" xml:space="preserve">                #**++=--;:,...,,,,::::;;--==++++++++===</text>
+<text x="0" y="182" xml:space="preserve">               ****+++==-;:,,,:;-=++----=++********+===-</text>
+<text x="0" y="196" xml:space="preserve">               +++++++++==--;:::;-=-:,,;=+*#####****++=--</text>
+<text x="0" y="210" xml:space="preserve">               +++++++++======-------===+********+++===---</text>
+<text x="0" y="224" xml:space="preserve">               =========================++++++++====------</text>
+<text x="0" y="238" xml:space="preserve">              ========----------------------------;;;;;;;;-</text>
+<text x="0" y="252" xml:space="preserve">              ====-----------;;;;;;;;;;;;;;;:;:::::::::;;;--</text>
+<text x="0" y="266" xml:space="preserve">              ===--------;;;;;;;:::::::::,,,,,,,,,,,,:::;;--=</text>
+<text x="0" y="280" xml:space="preserve">              ====-------;;;;;;::::::,,,,,,,,,,,,,,,,,::;;--=</text>
+<text x="0" y="294" xml:space="preserve">              ======-----;;                     ,,,,,,::;;--=+</text>
+<text x="0" y="308" xml:space="preserve">              ++====-</text>
+<text x="0" y="322" xml:space="preserve">              ++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4531;0.4688;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                              +++=</text>
+<text x="0" y="98" xml:space="preserve">                      ****+++=--;;;;;;;-----==</text>
+<text x="0" y="112" xml:space="preserve">                  *####*++=-;;:,,,,,,,::;;----======</text>
+<text x="0" y="126" xml:space="preserve">                  ###**+=-;:,,........,,::;;---======</text>
+<text x="0" y="140" xml:space="preserve">                 ##**+=-;:,,..........,,:;;---========</text>
+<text x="0" y="154" xml:space="preserve">                ##**+=-;:,,..........,,::;---=========</text>
+<text x="0" y="168" xml:space="preserve">               ****++=-;:,,...,,:::::;;;--===++++++++==</text>
+<text x="0" y="182" xml:space="preserve">               ***++++=--;:,,::;-+*#----=+++********++==</text>
+<text x="0" y="196" xml:space="preserve">               ++++++++==--;;::;-==-:..:=+**#####****++==</text>
+<text x="0" y="210" xml:space="preserve">               ++++++=======-----------=++**##****+++===--</text>
+<text x="0" y="224" xml:space="preserve">              =========================++++++++++++===----</text>
+<text x="0" y="238" xml:space="preserve">              ========----------------==========------;;;--</text>
+<text x="0" y="252" xml:space="preserve">              ====-----------;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--</text>
+<text x="0" y="266" xml:space="preserve">              ===--------;;;;;;;;:::::::::::::::::::::::;;--</text>
+<text x="0" y="280" xml:space="preserve">              ====------;;;;;;::::::::,,,,,,,,,,,,,,,:::;;--=</text>
+<text x="0" y="294" xml:space="preserve">             +======----;;                   ,,,,,,,,:::;;--=</text>
+<text x="0" y="308" xml:space="preserve">             +++====</text>
+<text x="0" y="322" xml:space="preserve">             +</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4688;0.4844;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                      *#**++==--;;;;;;;----===</text>
+<text x="0" y="112" xml:space="preserve">                  *###**++=-;::,,,,,,:::;;---=======+</text>
+<text x="0" y="126" xml:space="preserve">                  ##***+=-;:,,........,,::;---=======</text>
+<text x="0" y="140" xml:space="preserve">                 #**++=-;:,,..........,,:;;---========</text>
+<text x="0" y="154" xml:space="preserve">                #**++=-;:,..........,,,:;;;--===+++====</text>
+<text x="0" y="168" xml:space="preserve">               ***++==-;:,,.,,,,:::;;;;;--===+++++++++=</text>
+<text x="0" y="182" xml:space="preserve">               **++++==-;::,,:;-=+#=.;--==++********+++=</text>
+<text x="0" y="196" xml:space="preserve">               ++++++===--;;:::;-==-:..:-=**######***++==</text>
+<text x="0" y="210" xml:space="preserve">              +============----;;-------=+*#####***+++===</text>
+<text x="0" y="224" xml:space="preserve">              =========================+++******++++===---</text>
+<text x="0" y="238" xml:space="preserve">              =======-------------========++=======--------</text>
+<text x="0" y="252" xml:space="preserve">              ====-------------;;;-------------;;;;;;;;;;---</text>
+<text x="0" y="266" xml:space="preserve">             =====-------;;;;;;;;;::;::::::::::::::::::;;;--</text>
+<text x="0" y="280" xml:space="preserve">             ======-----;;;;;;;::::::::,,,,,,,,,,,,,::::;;--=</text>
+<text x="0" y="294" xml:space="preserve">             ++=====-----                 ,,,,,,,,,,,:::;;--=</text>
+<text x="0" y="308" xml:space="preserve">             +++==</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4844;0.5000;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                      #***+===-;;;;;;;;----===</text>
+<text x="0" y="112" xml:space="preserve">                   ###*+++=-;::,,,,,,,::;;;--=======+</text>
+<text x="0" y="126" xml:space="preserve">                  ##*++=-;::,,........,,:;;---========</text>
+<text x="0" y="140" xml:space="preserve">                 #**+=-;:,,...........,,::;;--========</text>
+<text x="0" y="154" xml:space="preserve">                **++=-;:,,.........,,,,::;;--===++++===</text>
+<text x="0" y="168" xml:space="preserve">               **+++=-;::,,,,,:::;;;;;;;---==++++**++++</text>
+<text x="0" y="182" xml:space="preserve">               +++++==-;;::,::;-+#*:.;--==++*********+++</text>
+<text x="0" y="196" xml:space="preserve">              +++++====--;;:::;;-=-;,..,;=**#######***++=</text>
+<text x="0" y="210" xml:space="preserve">              ===========----;;;;-------=+*######****++==</text>
+<text x="0" y="224" xml:space="preserve">              ==============------====+++*********+++====-</text>
+<text x="0" y="238" xml:space="preserve">              =======------------======++++++++++====------</text>
+<text x="0" y="252" xml:space="preserve">             =====--------------------------=------;;;;;;--</text>
+<text x="0" y="266" xml:space="preserve">             =====-------;;;;;;;;;;;;;;;;;;;;;;;;;;:;;;;;;--</text>
+<text x="0" y="280" xml:space="preserve">             ======-----;;;;;;;::::::::::::::::::::::::;;;--</text>
+<text x="0" y="294" xml:space="preserve">            +++====----                :::,,,,,,,,,::::;;;-==</text>
+<text x="0" y="308" xml:space="preserve">            ++++</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5000;0.5156;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                     *#***+==--;;;;;;;;---====</text>
+<text x="0" y="112" xml:space="preserve">                   ###*++=--;:,,,,,,,,::;;--=======++</text>
+<text x="0" y="126" xml:space="preserve">                  #*++==;;:,,.........,,:;;---========</text>
+<text x="0" y="140" xml:space="preserve">                #*++=-;;:,,...........,,::;;--========</text>
+<text x="0" y="154" xml:space="preserve">                **++=-;:,,........,,,,,:;;;--===+++++==</text>
+<text x="0" y="168" xml:space="preserve">               *++===-;:,,,,,,::;;;;;;;;--===+++****+++</text>
+<text x="0" y="182" xml:space="preserve">               ++++==--;::,,::-=*#*,..;-==+++*********++</text>
+<text x="0" y="196" xml:space="preserve">              ++++====---;;:::;--=-;,...:=+**#######**+++</text>
+<text x="0" y="210" xml:space="preserve">              ==========----;;;;-----;;;-=**#######**+++=</text>
+<text x="0" y="224" xml:space="preserve">              ============---------===+++****##****+++====</text>
+<text x="0" y="238" xml:space="preserve">             =========-----------=====++++****+++++====----</text>
+<text x="0" y="252" xml:space="preserve">             =====-------------------============----------</text>
+<text x="0" y="266" xml:space="preserve">             =====-------;;;;;;;;;;;;;;;;--;-;;;;;;;;;;;;;--</text>
+<text x="0" y="280" xml:space="preserve">            +======-----;;;;;;;;::::::::::::::::::::::;;;;--</text>
+<text x="0" y="294" xml:space="preserve">            +++====--               :::::::::::::::::::;;--=</text>
+<text x="0" y="308" xml:space="preserve">            +</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5156;0.5312;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                     ##**++==--;;;;;;;;---====</text>
+<text x="0" y="112" xml:space="preserve">                   ##**+==-;:::,,,,,,,::;;--=====+++++</text>
+<text x="0" y="126" xml:space="preserve">                 #**++=-;::,,.........,::;;---========</text>
+<text x="0" y="140" xml:space="preserve">                **++=-;:,,,...........,,::;;--====++===</text>
+<text x="0" y="154" xml:space="preserve">                *+==-;::,,......,,,,,,:::;;--===+++++++</text>
+<text x="0" y="168" xml:space="preserve">               +++==-;;:,,,,,::;;--;;;;----==++++****+++</text>
+<text x="0" y="182" xml:space="preserve">               +++===-;;::,::;-=**+...;-==+++**********+</text>
+<text x="0" y="196" xml:space="preserve">              +=======--;;:::;;-==-:....:-+**#######***++</text>
+<text x="0" y="210" xml:space="preserve">              =========---;;;;;;----;;:;-=+*#######***+++</text>
+<text x="0" y="224" xml:space="preserve">             ===========-----------===+++**#####****++++==</text>
+<text x="0" y="238" xml:space="preserve">             ========-----------=====+++********++++=====-</text>
+<text x="0" y="252" xml:space="preserve">             ======----------------=====++++++=====--------</text>
+<text x="0" y="266" xml:space="preserve">            ======-------;;;;;;;;;----------------;;;;;;;--</text>
+<text x="0" y="280" xml:space="preserve">            ++=====-----;;;;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;---</text>
+<text x="0" y="294" xml:space="preserve">           +++====                ;:::::::::::::::::::;;;---</text>
+<text x="0" y="308" xml:space="preserve">                                                      ;;;-</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5312;0.5469;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    *##**++=---;;;;;;;;---===</text>
+<text x="0" y="112" xml:space="preserve">                   #**+==--;::,,,,,,,,::;;--====++++++</text>
+<text x="0" y="126" xml:space="preserve">                 #*++=-;;:,,..........,::;;;--====+++==</text>
+<text x="0" y="140" xml:space="preserve">                *++=--;:,,............,,::;;--===+++++=</text>
+<text x="0" y="154" xml:space="preserve">                ++==-;:,,.....,,,,,,,,::;;;--===+++++++</text>
+<text x="0" y="168" xml:space="preserve">               ++===-;::,,,,::;------;;---===++++*****++</text>
+<text x="0" y="182" xml:space="preserve">              +++===--;:::,::;-***-...:--=+++*****##***+</text>
+<text x="0" y="196" xml:space="preserve">              =======--;;::::;--=-;:....,;+**########**++</text>
+<text x="0" y="210" xml:space="preserve">             ========----;;;;;;;---;;:::;-**########***++</text>
+<text x="0" y="224" xml:space="preserve">             ==========------------====++**#######***+++==</text>
+<text x="0" y="238" xml:space="preserve">             ========------------===+++***********+++=====</text>
+<text x="0" y="252" xml:space="preserve">            =======--------------====+++++++++++=====------</text>
+<text x="0" y="266" xml:space="preserve">            +======-------;-;;;--------=======-------;;;---</text>
+<text x="0" y="280" xml:space="preserve">           +++=====-----;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--</text>
+<text x="0" y="294" xml:space="preserve">           +++==                ;;;;;;;;;;;::::::::::;;;;---</text>
+<text x="0" y="308" xml:space="preserve">                                                 ::::;;;;---</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5469;0.5625;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    ###**+==--;;;;;;;;;---==</text>
+<text x="0" y="112" xml:space="preserve">                   #*++==-;;::,,,,,,,:::;;--====++++++</text>
+<text x="0" y="126" xml:space="preserve">                 *++==-;:,,,.........,,:::;;--====+++++</text>
+<text x="0" y="140" xml:space="preserve">                *+==-;::,............,,:::;;--===++++++</text>
+<text x="0" y="154" xml:space="preserve">               ++==-;::,,....,,,,,,,,:::;;;--===+++++++</text>
+<text x="0" y="168" xml:space="preserve">               ++=--;;:,,,,,:;;-==--------===++++*****++</text>
+<text x="0" y="182" xml:space="preserve">              +===---;;::,::;-+**+;,...-=++++*****###***</text>
+<text x="0" y="196" xml:space="preserve">              =====---;;::::;;----::....,;=**#########***</text>
+<text x="0" y="210" xml:space="preserve">             =======----;;;;;;;---;;::,,:-=*#########**++</text>
+<text x="0" y="224" xml:space="preserve">             ========------;;;------===++**########***++==</text>
+<text x="0" y="238" xml:space="preserve">            ========-------------===+++****####****+++====</text>
+<text x="0" y="252" xml:space="preserve">            =======-------------====+++*******++++====----</text>
+<text x="0" y="266" xml:space="preserve">           ++======----------------=============-----------</text>
+<text x="0" y="280" xml:space="preserve">           +++====------;;;;;;;;;;;-------------;;;;;;;;;--</text>
+<text x="0" y="294" xml:space="preserve">           +                   ;;;;;;;;;;;;;;;;;;;;;;;;;;--</text>
+<text x="0" y="308" xml:space="preserve">                                              ;:::::;;;;;--</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5625;0.5781;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    ##**++==--;;;:;;;;;---</text>
+<text x="0" y="112" xml:space="preserve">                   *++==-;;:::,,,,,,,,::;;--====+++++++</text>
+<text x="0" y="126" xml:space="preserve">                 *+==-;::,,..........,,,:;;;--===++++++</text>
+<text x="0" y="140" xml:space="preserve">                +==-;;:,,............,,:::;;--===++++++</text>
+<text x="0" y="154" xml:space="preserve">               +==--;::,,...,,,,,,::::::;;---===++++++++</text>
+<text x="0" y="168" xml:space="preserve">               +==--;::,,,,::;-====#-----=====+++*******</text>
+<text x="0" y="182" xml:space="preserve">              ====--;;:::,::;-+*+=;....;-=+++*****###***</text>
+<text x="0" y="196" xml:space="preserve">              ====---;;;::::;;---;:,.....;-**#########***</text>
+<text x="0" y="210" xml:space="preserve">             ======----;;;;;;;;---;;:,,::;=*#########***+</text>
+<text x="0" y="224" xml:space="preserve">            ========-----;;;;;--------===+*########***++++</text>
+<text x="0" y="238" xml:space="preserve">            ========------------====++****######****+++===</text>
+<text x="0" y="252" xml:space="preserve">           ++======------------====+++*********++++====---</text>
+<text x="0" y="266" xml:space="preserve">           +++=====--------------====+++++++++====--------</text>
+<text x="0" y="280" xml:space="preserve">          ++++====-------;;;;;;;------======-------;;;;;;--</text>
+<text x="0" y="294" xml:space="preserve">                             ;;;;;-------;;;;;;;;;;;;;;;;--</text>
+<text x="0" y="308" xml:space="preserve">                                          ;;;;;;;;;;;;;;;--</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5781;0.5938;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    ##**++==-;;;;::;;;;-</text>
+<text x="0" y="112" xml:space="preserve">                  **++=--;::,,,,,,,,,,::;;--====+++++++</text>
+<text x="0" y="126" xml:space="preserve">                 +==-;;:,,,..........,,::;;;--====+++++</text>
+<text x="0" y="140" xml:space="preserve">                +==-;::,.............,,:::;;--===++++++</text>
+<text x="0" y="154" xml:space="preserve">               +==-;;:,,...,,,,::::::::;;;---===++++++++</text>
+<text x="0" y="168" xml:space="preserve">               ==--;;:,,,,,:;-=++++.-----====++++*******</text>
+<text x="0" y="182" xml:space="preserve">              ===---;:::,,:;;-+*+-:....,-=+++*****####**</text>
+<text x="0" y="196" xml:space="preserve">             ====---;;;:::::;----;,,.....:-+*##########**</text>
+<text x="0" y="210" xml:space="preserve">             =====----;;;::;;;---;;:,,,,:;=**#########***</text>
+<text x="0" y="224" xml:space="preserve">            =======-----;;;;;;---------==**#########***++</text>
+<text x="0" y="238" xml:space="preserve">            +=======-------------===++***########***+++===</text>
+<text x="0" y="252" xml:space="preserve">           ++======------------===+++*****#******+++====--</text>
+<text x="0" y="266" xml:space="preserve">          ++++=====------------=====++++***+++++===-------</text>
+<text x="0" y="280" xml:space="preserve">          ++++====----------------=============-----;;;;;-</text>
+<text x="0" y="294" xml:space="preserve">                            -------------------;;;;;;;;;;;</text>
+<text x="0" y="308" xml:space="preserve">                                       ------;;;;;;;;;;;;-</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5938;0.6094;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    #**++==--;;;;:::;;</text>
+<text x="0" y="112" xml:space="preserve">                  *++=-;;:::,,,,,,,,,,:::;---===+++++++</text>
+<text x="0" y="126" xml:space="preserve">                 +=--;::,,...........,,:::;;--====++++++</text>
+<text x="0" y="140" xml:space="preserve">                ==--;:,,............,,,::;;;---===++++++</text>
+<text x="0" y="154" xml:space="preserve">               ===-;::,,,,,,,:::::::::;;;;---===++++**++</text>
+<text x="0" y="168" xml:space="preserve">               =---;::,,,,::;-++***..---=====++++*******</text>
+<text x="0" y="182" xml:space="preserve">              ==---;;::,,::;-=+++-:.....;=++******#####*</text>
+<text x="0" y="196" xml:space="preserve">             ====--;;;:::::;;---;::......,-+**#########**</text>
+<text x="0" y="210" xml:space="preserve">             =====---;;;:::;;;--;;:,,,,,:;=+*#########***</text>
+<text x="0" y="224" xml:space="preserve">            +======---;;;;;;;;------;---=+*#########***++</text>
+<text x="0" y="238" xml:space="preserve">           ++======-------------====+++**########****+++=</text>
+<text x="0" y="252" xml:space="preserve">          +++======------------===+++****#####***+++====--</text>
+<text x="0" y="266" xml:space="preserve">          +++=====-------------===+++********++++====-----</text>
+<text x="0" y="280" xml:space="preserve">          +++     --------------====++++++++=====-----;;;;</text>
+<text x="0" y="294" xml:space="preserve">                           ----------======------;;;;;;;;;</text>
+<text x="0" y="308" xml:space="preserve">                                     ==--------;;;;;;;;;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6094;0.6250;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    **++==--;;;;::::;;</text>
+<text x="0" y="112" xml:space="preserve">                  ++=--;:::,,,,,,,,,,,::;;--====++++++++</text>
+<text x="0" y="126" xml:space="preserve">                 ==-;::,,............,,::;;;--====++++++</text>
+<text x="0" y="140" xml:space="preserve">                ==;;::,,...........,,,:::;;;---===++++++</text>
+<text x="0" y="154" xml:space="preserve">               ==-;;:,,,,,,,:::;;;;;;;;;;----===++++***+</text>
+<text x="0" y="168" xml:space="preserve">               =--;;:,,,,,:;-=**##+..========++++*******</text>
+<text x="0" y="182" xml:space="preserve">              ==--;;::,,,::;=+++=-......;=++******#####*</text>
+<text x="0" y="196" xml:space="preserve">             ====--;;::::::;----;:.......,;=**#########**</text>
+<text x="0" y="210" xml:space="preserve">            +====---;;;::::;;--;;;:,...,::-+*#########***</text>
+<text x="0" y="224" xml:space="preserve">            +=====---;;;;;;;;;----;;;;;-=+**#########***+</text>
+<text x="0" y="238" xml:space="preserve">           ++=====------;;;;----=====++***########***+++=</text>
+<text x="0" y="252" xml:space="preserve">          +++======-----------====++****#######***+++===-</text>
+<text x="0" y="266" xml:space="preserve">         ++++=====-----------====+++***********+++===----</text>
+<text x="0" y="280" xml:space="preserve">                   ------------===+++++++++++=====-----;;;</text>
+<text x="0" y="294" xml:space="preserve">                           -----==============-----;;;;;;;</text>
+<text x="0" y="308" xml:space="preserve">                                   ========------;;;;;;;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6250;0.6406;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    **+==--;;;;:::::;</text>
+<text x="0" y="112" xml:space="preserve">                  +=--;;::,,,,,,,,,,,,::;;---===++++++++</text>
+<text x="0" y="126" xml:space="preserve">                 =--;:,,,...........,,,::;;;---===++++++</text>
+<text x="0" y="140" xml:space="preserve">                =-;;:,,..........,,,,,:::;;;---===++++++</text>
+<text x="0" y="154" xml:space="preserve">               =-;;::,,,,,,,::;;;;;;;;;;----====++++****</text>
+<text x="0" y="168" xml:space="preserve">               ---;::,,,,,:;-=*###=...=====++++++*******</text>
+<text x="0" y="182" xml:space="preserve">              =---;;::,,,:;-==++=;......:-++******######</text>
+<text x="0" y="196" xml:space="preserve">             ===--;;::::::;;---;;,,......,;=**###########</text>
+<text x="0" y="210" xml:space="preserve">            +====--;;;::::;;;-;;::,.....,;-+*##########**</text>
+<text x="0" y="224" xml:space="preserve">           ++=====---;;;;;;;;;--;;;;;;;-=++*#########***+</text>
+<text x="0" y="238" xml:space="preserve">          +++=====-----;;;;;------====++**########***+++=</text>
+<text x="0" y="252" xml:space="preserve">          +++=====------------====+++***#######***+++====</text>
+<text x="0" y="266" xml:space="preserve">         ++++====------------===++++*****#*****+++===----</text>
+<text x="0" y="280" xml:space="preserve">                   -----------===++++******++++===-----;;</text>
+<text x="0" y="294" xml:space="preserve">                          ----======++++++=====-----;;;;;</text>
+<text x="0" y="308" xml:space="preserve">                                 ============-----;;;;;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6406;0.6562;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                       ***++</text>
+<text x="0" y="98" xml:space="preserve">                    ++==--;;;;;::::;</text>
+<text x="0" y="112" xml:space="preserve">                  ==-;;::,,,,,,.,,,,,,::;;---===++++++++</text>
+<text x="0" y="126" xml:space="preserve">                 --;;:,,............,,,::;;;---===++++++</text>
+<text x="0" y="140" xml:space="preserve">                --;::,,......,.,,,,,,:::;;;---====++++++</text>
+<text x="0" y="154" xml:space="preserve">               --;::,,,.,,,::;;-;-;;;;;-----====++++****</text>
+<text x="0" y="168" xml:space="preserve">               =-;::,,,,,::;=+*##*-...====+++++++*******</text>
+<text x="0" y="182" xml:space="preserve">              =--;;::,,,::;-=++=-:.......;=+******######</text>
+<text x="0" y="196" xml:space="preserve">             ===--;;::::::;;---;:,.......,:=+*###########</text>
+<text x="0" y="210" xml:space="preserve">            +===--;;;:::::;;;;;;::,,....,:-=*##########**</text>
+<text x="0" y="224" xml:space="preserve">           ++====---;;;;;;;;;;;;;;::::;;-=+*#########****</text>
+<text x="0" y="238" xml:space="preserve">          +++====-----;;;;;;---------==+**#########***+++</text>
+<text x="0" y="252" xml:space="preserve">         ++++====-------------===++++***#######****+++===</text>
+<text x="0" y="266" xml:space="preserve">         +++=====------------===+++****#####****+++===---</text>
+<text x="0" y="280" xml:space="preserve">                   ----------===+++**********+++===-----;</text>
+<text x="0" y="294" xml:space="preserve">                         ----=====+++++++++++===-----;;;;</text>
+<text x="0" y="308" xml:space="preserve">                                ==++++++++====-----;;;;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6562;0.6719;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ****++</text>
+<text x="0" y="98" xml:space="preserve">                    +==--;;;;::::::</text>
+<text x="0" y="112" xml:space="preserve">                  =-;;::,,,,...,,,,,,:::;;---====+++++++</text>
+<text x="0" y="126" xml:space="preserve">                 --;:,,,...........,,,,::;;;---====+++++</text>
+<text x="0" y="140" xml:space="preserve">                -;;:,,......,,,,,,,,::::;;;---====++++++</text>
+<text x="0" y="154" xml:space="preserve">               -;;::,,,,,,::;;-------------=====++++****</text>
+<text x="0" y="168" xml:space="preserve">               --;::,,,,,:;-=+*##+-...,=++++++++********</text>
+<text x="0" y="182" xml:space="preserve">              =--;:::,,,::;=+++=-:.......:=+*****#######</text>
+<text x="0" y="196" xml:space="preserve">             ==--;;::::::;;----;:,.......,:-=*###########</text>
+<text x="0" y="210" xml:space="preserve">            ===--;;;:::::;;;;;;;:,......,:;=+*#########**</text>
+<text x="0" y="224" xml:space="preserve">           ++===---;;;:::;;;;;;;:::::::;-=+*#########****</text>
+<text x="0" y="238" xml:space="preserve">          ++====-----;;;;;;;---------==++**########***+++</text>
+<text x="0" y="252" xml:space="preserve">         ++++====------;;-----=====+++***#######***+++===</text>
+<text x="0" y="266" xml:space="preserve">         +++====-------------===+++****######***+++===---</text>
+<text x="0" y="280" xml:space="preserve">                   ---------===+++***********++++===----;</text>
+<text x="0" y="294" xml:space="preserve">                         --=====++++******++++===----;;;;</text>
+<text x="0" y="308" xml:space="preserve">                               =++++++++++++====----;;;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6719;0.6875;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ***+++=</text>
+<text x="0" y="98" xml:space="preserve">                    ==--;;;;:::::::</text>
+<text x="0" y="112" xml:space="preserve">                   -;::,,,,,....,,,,,:::;;---====++++++++</text>
+<text x="0" y="126" xml:space="preserve">                  ;::,,............,,,:::;;;---====++++++</text>
+<text x="0" y="140" xml:space="preserve">                 ;::,,.....,,,,,,,:::::;;;;---====++++++</text>
+<text x="0" y="154" xml:space="preserve">                ;;:,,,..,,::;--==--------======+++++****</text>
+<text x="0" y="168" xml:space="preserve">               -;;:,,,,,,:;-+*##*=;....==++++++*********</text>
+<text x="0" y="182" xml:space="preserve">              =-;;::,,,,:;-=++==;:.......,-+*****#######</text>
+<text x="0" y="196" xml:space="preserve">             ==-;;;::,,::;;----:,.........:-=*###########</text>
+<text x="0" y="210" xml:space="preserve">            ===--;;:::::::;;;;;:,,......,:;=+*#########**</text>
+<text x="0" y="224" xml:space="preserve">           ++===--;;;::::;;;;;;;:::,,,:;;=+**#########***</text>
+<text x="0" y="238" xml:space="preserve">         +++====---;;;;;;;;;----;;;;;-==+**########***+++</text>
+<text x="0" y="252" xml:space="preserve">        +++=====------;;;;----======++***#######****++===</text>
+<text x="0" y="266" xml:space="preserve">            ====------------====+++****######****+++===--</text>
+<text x="0" y="280" xml:space="preserve">                   --------====+++****###*****+++===----</text>
+<text x="0" y="294" xml:space="preserve">                        ---====++++********++++===----;;</text>
+<text x="0" y="308" xml:space="preserve">                              =+++++***++++++====---;;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6875;0.7031;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      **+++=</text>
+<text x="0" y="98" xml:space="preserve">                    =--;;;::::::::</text>
+<text x="0" y="112" xml:space="preserve">                   ;;::,,.......,,,,::::;;---====++++++++</text>
+<text x="0" y="126" xml:space="preserve">                  ;:,,............,,,:::;;;----====++++++</text>
+<text x="0" y="140" xml:space="preserve">                 ;:,,.....,,,,,:::::::;;;;----====+++++++</text>
+<text x="0" y="154" xml:space="preserve">                ;::,,...,,:;--=================+++++*****</text>
+<text x="0" y="168" xml:space="preserve">               ;;::,,,,,::-=+*#*+=:....;=++++***********</text>
+<text x="0" y="182" xml:space="preserve">              --;::,,,,,:;-=++=-;,.......,;=+***########</text>
+<text x="0" y="196" xml:space="preserve">             =--;;::,,,::;----;:,.........:-=+*#########</text>
+<text x="0" y="210" xml:space="preserve">            ==--;;;::::::;;;;;::,.......,:-=+*##########*</text>
+<text x="0" y="224" xml:space="preserve">          ++===---;;::::;;;;;;;::,,,,,:;-==**########****</text>
+<text x="0" y="238" xml:space="preserve">         ++====---;;;;;;;;;;---;;;;;;--=++**#######***++*</text>
+<text x="0" y="252" xml:space="preserve">        +++=====----;;;;;;----=======++***######****++==</text>
+<text x="0" y="266" xml:space="preserve">             ==-------------====+++****#######***+++===-</text>
+<text x="0" y="280" xml:space="preserve">                   --------===+++****######****+++===---</text>
+<text x="0" y="294" xml:space="preserve">                        --====+++***********++++===---;;</text>
+<text x="0" y="308" xml:space="preserve">                             =++++********++++===----;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7031;0.7188;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      +++====</text>
+<text x="0" y="98" xml:space="preserve">                    --;;::::::::::</text>
+<text x="0" y="112" xml:space="preserve">                   ;::,,,.......,,,,::::;;---=====+++++++</text>
+<text x="0" y="126" xml:space="preserve">                  ::,,...........,,,,:::;;;----====++++++</text>
+<text x="0" y="140" xml:space="preserve">                 ::,,.....,,,:::::::;;;;-----=====+++++++</text>
+<text x="0" y="154" xml:space="preserve">                ::,,,..,,::;-=++++===========++++++******</text>
+<text x="0" y="168" xml:space="preserve">               ;::,,,,,,:;-=+*#*+=:.....-++***********#**</text>
+<text x="0" y="182" xml:space="preserve">              -;;::,,,,:;;=====-;,.......,:-+**#########</text>
+<text x="0" y="196" xml:space="preserve">             =-;;:::,,::;;----;:,........,:-=+*#########</text>
+<text x="0" y="210" xml:space="preserve">           ===--;;::::::;;;;;;:,,.......,:-=+**#########</text>
+<text x="0" y="224" xml:space="preserve">          ++==---;;:::::;;;;;;;:,,,,,,::;-=+*#########**</text>
+<text x="0" y="238" xml:space="preserve">         ++====---;;;;;;;;;---;;;;:;;;-==+**#######***++</text>
+<text x="0" y="252" xml:space="preserve">        ++====-----;;;;;;;---------===++**######****+++=</text>
+<text x="0" y="266" xml:space="preserve">              --------------===+++++****######****++===-</text>
+<text x="0" y="280" xml:space="preserve">                   --------===+++****######*****++===---</text>
+<text x="0" y="294" xml:space="preserve">                       --====+++*************+++===---;;</text>
+<text x="0" y="308" xml:space="preserve">                             ++++**********++++===---;;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7188;0.7344;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ++=====</text>
+<text x="0" y="98" xml:space="preserve">                    -;;:::::::::::</text>
+<text x="0" y="112" xml:space="preserve">                   ::,,,........,,,,:::;;;----====+++++++</text>
+<text x="0" y="126" xml:space="preserve">                  :,,,..........,,,,:::;;;;----====++++++</text>
+<text x="0" y="140" xml:space="preserve">                 :,,.....,,,::::::;;;;;;----=====++++++++</text>
+<text x="0" y="154" xml:space="preserve">                ::,,...,,:;;-=++*++#====+++++++++++******</text>
+<text x="0" y="168" xml:space="preserve">               ;::,,,,,,:;-=****+-:.....:=+**********####</text>
+<text x="0" y="182" xml:space="preserve">              -;::,,,,,::--===--:,........:;=+*##########</text>
+<text x="0" y="196" xml:space="preserve">             --;:::,,,::;;---;;:,.........:;-+*#########</text>
+<text x="0" y="210" xml:space="preserve">           ===-;;:::::::;;-;;;:,,.......,:;-=**#########</text>
+<text x="0" y="224" xml:space="preserve">          +==---;;;:::::;;;;;;::,,..,,,:;-=+**########**</text>
+<text x="0" y="238" xml:space="preserve">         ++===---;;;;:;;;;---;;;:::::;;-=+***######****+</text>
+<text x="0" y="252" xml:space="preserve">        ++===-----;;;;;;;;----------==++***######***+++=</text>
+<text x="0" y="266" xml:space="preserve">              -------------====+++++****######****+++===</text>
+<text x="0" y="280" xml:space="preserve">                   -------====++*****#######****+++==---</text>
+<text x="0" y="294" xml:space="preserve">                       --====+++****#####*****+++===---;</text>
+<text x="0" y="308" xml:space="preserve">                            ++++************++++===---;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7344;0.7500;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      =====-</text>
+<text x="0" y="98" xml:space="preserve">                    ;;:::::,:::::</text>
+<text x="0" y="112" xml:space="preserve">                   ::,,,.......,,,,,:::;   ---=====++++++</text>
+<text x="0" y="126" xml:space="preserve">                  ,,,.........,,,,,::::;;;----=====++++++</text>
+<text x="0" y="140" xml:space="preserve">                 ,,,.....,,:::;;;;;;;;-----======++++++++</text>
+<text x="0" y="154" xml:space="preserve">                :,,,...,::;-=+****##==++++++++++++*******</text>
+<text x="0" y="168" xml:space="preserve">               :::,,,,,,:;=+****=-:.....,;=+*********####</text>
+<text x="0" y="182" xml:space="preserve">              ;;::,,,,,:;-====--:,.......,:;-+**#########</text>
+<text x="0" y="196" xml:space="preserve">             --;:::,,,::;----;;:,.........:;-=**########</text>
+<text x="0" y="210" xml:space="preserve">           ==--;;:::::::;;-;;;:,........,::-=**#########</text>
+<text x="0" y="224" xml:space="preserve">          ===--;;;:::::;;;;;;;:,,,...,,,:-=+***#######**</text>
+<text x="0" y="238" xml:space="preserve">         ====---;;;;::;;;;--;;;::::::;;-==+***#####****+</text>
+<text x="0" y="252" xml:space="preserve">        +====----;;;;;;;;------------==++***#####****++=</text>
+<text x="0" y="266" xml:space="preserve">              ------;;;----=====+++++****######****++===</text>
+<text x="0" y="280" xml:space="preserve">                  --------====++*****########****++===--</text>
+<text x="0" y="294" xml:space="preserve">                       --===++++****#######****++===---;</text>
+<text x="0" y="308" xml:space="preserve">                            +++**************++++==---;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7500;0.7656;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ==----</text>
+<text x="0" y="98" xml:space="preserve">                    ;;::,,,,,,:::</text>
+<text x="0" y="112" xml:space="preserve">                   :,,.........,,,,:::;     --=====+++++=</text>
+<text x="0" y="126" xml:space="preserve">                  ,,..........,,,,::::;;;-----=====++++++</text>
+<text x="0" y="140" xml:space="preserve">                 ,,,.....,,::;;;;;;------=======+++++++++</text>
+<text x="0" y="154" xml:space="preserve">                ,,,....,,:;-++*####*=-+++++++++++********</text>
+<text x="0" y="168" xml:space="preserve">               ::,,,,,,::-=+***+=;:,....,:-++*******#####</text>
+<text x="0" y="182" xml:space="preserve">              ;::,,,,,,:;-====-;:,........,;-=**#########</text>
+<text x="0" y="196" xml:space="preserve">             -;;::,,,,::;----;::,.........,;-=**########</text>
+<text x="0" y="210" xml:space="preserve">           ==-;;:::::::;;;-;;::,........,,;-=+**########</text>
+<text x="0" y="224" xml:space="preserve">          ===-;;;::::::;;;-;;::,,.....,::;==+**#######**</text>
+<text x="0" y="238" xml:space="preserve">        ====---;;;;:::;;;;---;;:::,:::;;-=+***#####****+</text>
+<text x="0" y="252" xml:space="preserve">        ====----;;;;;;;;;--------;----==+***#####****+++</text>
+<text x="0" y="266" xml:space="preserve">              -----;;;;----=======++++****#####****+++==</text>
+<text x="0" y="280" xml:space="preserve">                  --------===+++*****#########***+++==--</text>
+<text x="0" y="294" xml:space="preserve">                      --====+++****#########***+++===---</text>
+<text x="0" y="308" xml:space="preserve">                           =+++*****#####*****++++==--;;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7656;0.7812;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      =-----</text>
+<text x="0" y="98" xml:space="preserve">                    :::,,,,,,,:::</text>
+<text x="0" y="112" xml:space="preserve">                   ,,,.........,,,::::      --======++++=</text>
+<text x="0" y="126" xml:space="preserve">                  ,,........,,,,,:::;;;;-----======++++++</text>
+<text x="0" y="140" xml:space="preserve">                 ,,.....,,::;;;-------=========++++++++++</text>
+<text x="0" y="154" xml:space="preserve">                ,,,....,:;-=+*#####*+--++****************</text>
+<text x="0" y="168" xml:space="preserve">               ::,,..,,:;-++***+=-;,....,:;=++*****######</text>
+<text x="0" y="182" xml:space="preserve">              :::,,,,,:;;-====-;:,........,:-=+**########</text>
+<text x="0" y="196" xml:space="preserve">             ;;::,,,,::;;----;::,........,,:-=++*#######</text>
+<text x="0" y="210" xml:space="preserve">           ---;;:::::::;;--;;::,.........,;;=+***#######</text>
+<text x="0" y="224" xml:space="preserve">          ==--;;;::::::;;--;;::,,.....,,:;-=+***#####***</text>
+<text x="0" y="238" xml:space="preserve">        ====---;;;::::;;;---;;:::,,,:::;-=++****##*****+</text>
+<text x="0" y="252" xml:space="preserve">        ===-----;;;;;;;;--------;;;;;--=++***####****+++</text>
+<text x="0" y="266" xml:space="preserve">              ---;;;;;;;--==========+++***######****++==</text>
+<text x="0" y="280" xml:space="preserve">                  ;-------===+++******########****++===-</text>
+<text x="0" y="294" xml:space="preserve">                      --====+++****#########****+++===--</text>
+<text x="0" y="308" xml:space="preserve">                           ++++****########****+++==---;</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7812;0.7969;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ------</text>
+<text x="0" y="98" xml:space="preserve">                     ::,,,,,,,::</text>
+<text x="0" y="112" xml:space="preserve">                   ,,,........,,,,:::;      --======+++==</text>
+<text x="0" y="126" xml:space="preserve">                  ,,.......,,,,,:::;;;;-----=======++++++</text>
+<text x="0" y="140" xml:space="preserve">                  ,.....,,:;;;------======++++++++++++*++</text>
+<text x="0" y="154" xml:space="preserve">                 ,....,,:;-=**####**+---+****************</text>
+<text x="0" y="168" xml:space="preserve">                ,,,.,,,:-=+***++=-;:,,,,,:;-=+****#######</text>
+<text x="0" y="182" xml:space="preserve">               ::,,,,,:;-==+==-;:,........,:;==***#######</text>
+<text x="0" y="196" xml:space="preserve">             ;;::,,,,::;-----;::,.........,:;=+***#######</text>
+<text x="0" y="210" xml:space="preserve">            -;;:::,,::;;---;;::,.........,:;-++***#####*</text>
+<text x="0" y="224" xml:space="preserve">          =--;;;::::::;;---;;::,,.....,,:;;==+***####***</text>
+<text x="0" y="238" xml:space="preserve">        ===---;;;:::::;;----;;::,,,,,::;;-=++**********+</text>
+<text x="0" y="252" xml:space="preserve">        ===----;;;;;;;;;-------;;;;;---=+++****##*****++</text>
+<text x="0" y="266" xml:space="preserve">             ---;;;;;;;;--==========++++***#####****++==</text>
+<text x="0" y="280" xml:space="preserve">                  ;-------===+++******#########****++==-</text>
+<text x="0" y="294" xml:space="preserve">                     ---====+++****##########****+++==--</text>
+<text x="0" y="308" xml:space="preserve">                          =+++*****#########****+++==---</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7969;0.8125;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ---;;</text>
+<text x="0" y="98" xml:space="preserve">                     :,,,,,,,,::</text>
+<text x="0" y="112" xml:space="preserve">                    ,.........,,,:::;       -==..........</text>
+<text x="0" y="126" xml:space="preserve">                   ........,,,,:::;;;;----========.......</text>
+<text x="0" y="140" xml:space="preserve">                  ......,::;;--========+++++++++++++++...</text>
+<text x="0" y="154" xml:space="preserve">                 ,....,,:;-+*#####*+==---+***************</text>
+<text x="0" y="168" xml:space="preserve">                ,,..,,::-=+***++=-;::,,,,::;-=+***#######</text>
+<text x="0" y="182" xml:space="preserve">               :,,,,,::;-==+=--;::,.......,:;-=+**#######</text>
+<text x="0" y="196" xml:space="preserve">             :::,,,,,:;;-==--;::,.........,:;-=+**#######</text>
+<text x="0" y="210" xml:space="preserve">            -;;:::,:::;----;;::,........,,::-=+****####*</text>
+<text x="0" y="224" xml:space="preserve">          ---;;:::::::;;---;;::,,......,,;;-=+**********</text>
+<text x="0" y="238" xml:space="preserve">        ==----;;::::::;;----;;::,,,,,,::;-=++***********</text>
+<text x="0" y="252" xml:space="preserve">        ==-----;;;;;;;;;------;;;;;;;--==++***********++</text>
+<text x="0" y="266" xml:space="preserve">             --;;;;;;;;---===========+++****####*****++=</text>
+<text x="0" y="280" xml:space="preserve">                 ;;-------==+++++******#########***+++==</text>
+<text x="0" y="294" xml:space="preserve">                     ---====++****############****++==--</text>
+<text x="0" y="308" xml:space="preserve">                          =+++*****##########****+++==--</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8125;0.8281;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      -;;;;</text>
+<text x="0" y="98" xml:space="preserve">                     :,,,,,,,,:</text>
+<text x="0" y="112" xml:space="preserve">                    ,........,,,:::;;       .............</text>
+<text x="0" y="126" xml:space="preserve">                   .......,,,,:::;;;---.......  +........</text>
+<text x="0" y="140" xml:space="preserve">                  .....,,::;--=====++++++........  ......</text>
+<text x="0" y="154" xml:space="preserve">                 .....,:;-=**####**++==---++*............</text>
+<text x="0" y="168" xml:space="preserve">                ,,..,,:;-=+***+==-;;:::,,::;;=++*........</text>
+<text x="0" y="182" xml:space="preserve">               ,,,,,,:;;-=++=--;::,,.....,,:;-==+**##....</text>
+<text x="0" y="196" xml:space="preserve">              ::,,,,::;--==--;::,.........,:;-==***######</text>
+<text x="0" y="210" xml:space="preserve">            ;;:::,,:::;-----;::,.........,,:-=++****##***</text>
+<text x="0" y="224" xml:space="preserve">          --;;:::::::;;----;;::,,......,,:;--=+**********</text>
+<text x="0" y="238" xml:space="preserve">        ==---;;;:::::;;-----;;:::,,,,,::;--=++**********</text>
+<text x="0" y="252" xml:space="preserve">        =-----;;;;::;;;-------;;;;;;;;--==++**********++</text>
+<text x="0" y="266" xml:space="preserve">             -;;;;;;;;;--=============+++***#####****++=</text>
+<text x="0" y="280" xml:space="preserve">                 ;;------===+++++******#########****++==</text>
+<text x="0" y="294" xml:space="preserve">                     ---====+++****############***+++==-</text>
+<text x="0" y="308" xml:space="preserve">                          =+++*****###########****++==--</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8281;0.8438;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ;;;;;</text>
+<text x="0" y="98" xml:space="preserve">                     ,,,,,,,,..</text>
+<text x="0" y="112" xml:space="preserve">                    ........,,......        .............</text>
+<text x="0" y="126" xml:space="preserve">                   .......,,:::... ...........  .........</text>
+<text x="0" y="140" xml:space="preserve">                  .....,,:;;-==++................ ......</text>
+<text x="0" y="154" xml:space="preserve">                 ....,,:;-=*#####*+=+==-........... ....</text>
+<text x="0" y="168" xml:space="preserve">                ,...,,:;-++**++==---;;::::..............</text>
+<text x="0" y="182" xml:space="preserve">               ,,,,,,:;-==+==--;;::,,,...,,..............</text>
+<text x="0" y="196" xml:space="preserve">              :,,,,,::---==--;;:,,........,,  ........ .+</text>
+<text x="0" y="210" xml:space="preserve">            ;:::,,,::;------;::,,........,,:;-...........</text>
+<text x="0" y="224" xml:space="preserve">          -;;;:::::::;;----;;::,,......,,:;;-=++  .......</text>
+<text x="0" y="238" xml:space="preserve">         ---;;;::::::;;-----;;::,,,,,,::;;-==++****.    .</text>
+<text x="0" y="252" xml:space="preserve">        =----;;;;:::;;---==---;;;;;;;;;-==++***********..</text>
+<text x="0" y="266" xml:space="preserve">            -;;;;;;;;;;--=============+++****#####****++.</text>
+<text x="0" y="280" xml:space="preserve">                 ;;;-----==+++++++******#########***+++=</text>
+<text x="0" y="294" xml:space="preserve">                     --====++++****############****++==-</text>
+<text x="0" y="308" xml:space="preserve">                          =+++*****############****++==-</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8438;0.8594;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ....</text>
+<text x="0" y="98" xml:space="preserve">                     ,........</text>
+<text x="0" y="112" xml:space="preserve">                    ................       .............</text>
+<text x="0" y="126" xml:space="preserve">                   ............... ......... . .........</text>
+<text x="0" y="140" xml:space="preserve">                  .....,,...............................</text>
+<text x="0" y="154" xml:space="preserve">                 ....,,:;-=.............................</text>
+<text x="0" y="168" xml:space="preserve">                 ...,::;=+***......................+....</text>
+<text x="0" y="182" xml:space="preserve">                ,,,,,:;-=++==--;   .   .   ......  ......</text>
+<text x="0" y="196" xml:space="preserve">              ,,,,,,:;--===--;;:::.........+   ......  .+</text>
+<text x="0" y="210" xml:space="preserve">             ::,,,,::;--=---;::,,,.   ..   ..............</text>
+<text x="0" y="224" xml:space="preserve">           ;;:::::::;;-----;;::,,,.....   ..   .  .......</text>
+<text x="0" y="238" xml:space="preserve">         ---;;::::::;;------;;::,,,,, ..............    .</text>
+<text x="0" y="252" xml:space="preserve">        -----;;;;:::;;--===---;;;;::;;.   .   ...........</text>
+<text x="0" y="266" xml:space="preserve">            -;;;;;;;;;---=======---====+........   .    .</text>
+<text x="0" y="280" xml:space="preserve">                ;;;;-----==++++++++*****### .............</text>
+<text x="0" y="294" xml:space="preserve">                    ---====++++****############    .    .</text>
+<text x="0" y="308" xml:space="preserve">                         =++++*****############.........+</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8594;0.8750;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                      ....</text>
+<text x="0" y="98" xml:space="preserve">                     .....+...                       ..</text>
+<text x="0" y="112" xml:space="preserve">                    ...............        ..........  .</text>
+<text x="0" y="126" xml:space="preserve">                   ... .......... .........  ...........</text>
+<text x="0" y="140" xml:space="preserve">                  .. .......................... ........</text>
+<text x="0" y="154" xml:space="preserve">                  ....+  ...............................</text>
+<text x="0" y="168" xml:space="preserve">                 ..  ...................................</text>
+<text x="0" y="182" xml:space="preserve">                ,,,,.......... .   .   .   ............+.</text>
+<text x="0" y="196" xml:space="preserve">               ,,,,::   .  ..................  .   .   ..</text>
+<text x="0" y="210" xml:space="preserve">             ::,,,::;;....... ..  ..  ..   ..............</text>
+<text x="0" y="224" xml:space="preserve">           ;;:::,:::;;--  ..  ........... ..   .  .......</text>
+<text x="0" y="238" xml:space="preserve">          -;;;::::::;;--=.......  .   . ............    .</text>
+<text x="0" y="252" xml:space="preserve">         ----;;;::::;;--==.  ..   .   .   .   ...........</text>
+<text x="0" y="266" xml:space="preserve">           --;;;;;;;;;--====....................   .    .</text>
+<text x="0" y="280" xml:space="preserve">                ;;;-----===++.   .   .   .. .............</text>
+<text x="0" y="294" xml:space="preserve">                    ---====++++*............  .    .    .</text>
+<text x="0" y="308" xml:space="preserve">                         =++++***.......................+</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8750;0.8906;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                     ....</text>
+<text x="0" y="98" xml:space="preserve">                    .........                      +...+</text>
+<text x="0" y="112" xml:space="preserve">                    ... ...........       ..........   .</text>
+<text x="0" y="126" xml:space="preserve">                   .. ..+........ ......... ............</text>
+<text x="0" y="140" xml:space="preserve">                  ....... ..............................</text>
+<text x="0" y="154" xml:space="preserve">                  ..... ............. ..................</text>
+<text x="0" y="168" xml:space="preserve">                 ..  ...................................</text>
+<text x="0" y="182" xml:space="preserve">                ........+..... .   .....   ..............</text>
+<text x="0" y="196" xml:space="preserve">               .... .   .  .........  ..........   .   ..</text>
+<text x="0" y="210" xml:space="preserve">              ... ........... ..  ..   .   .  ......... .</text>
+<text x="0" y="224" xml:space="preserve">            ::: .....  .  ..  ..............   .  .......</text>
+<text x="0" y="238" xml:space="preserve">          ;;;:::... ............  .   .   ........ .    .</text>
+<text x="0" y="252" xml:space="preserve">         ---;;;;::.....  ..   .   .   .   .    ..........</text>
+<text x="0" y="266" xml:space="preserve">           -;;;;;;;.............................   .    .</text>
+<text x="0" y="280" xml:space="preserve">               ;;;;--......  .   .   ..   ...............</text>
+<text x="0" y="294" xml:space="preserve">                    -.......................  . ...+... .</text>
+<text x="0" y="308" xml:space="preserve">                         ..+.............+....+..      .+</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8906;0.9062;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                     ...</text>
+<text x="0" y="98" xml:space="preserve">                    .........                      ....+</text>
+<text x="0" y="112" xml:space="preserve">                    .. ...........       ...........   .</text>
+<text x="0" y="126" xml:space="preserve">                   +. .... ...... ........ .............</text>
+<text x="0" y="140" xml:space="preserve">                  ...... ...............+...............</text>
+<text x="0" y="154" xml:space="preserve">                  ... ...............  .................</text>
+<text x="0" y="168" xml:space="preserve">                 .. ....................................</text>
+<text x="0" y="182" xml:space="preserve">                ......  ...... .   ......  . ............</text>
+<text x="0" y="196" xml:space="preserve">               ...  .....  .........   .........   .  ...</text>
+<text x="0" y="210" xml:space="preserve">              .. ............  .  ..   .   .   ........ .</text>
+<text x="0" y="224" xml:space="preserve">            ........   .  ..  +..........................</text>
+<text x="0" y="238" xml:space="preserve">          ... .................   .   .    .  ...  .    .</text>
+<text x="0" y="252" xml:space="preserve">         .. ...........   .   .   .   .   ..   ..........</text>
+<text x="0" y="266" xml:space="preserve">          ....+.................................   .    +</text>
+<text x="0" y="280" xml:space="preserve">               ...........   .   .    .   ................</text>
+<text x="0" y="294" xml:space="preserve">                   ...... ..................   ...........</text>
+<text x="0" y="308" xml:space="preserve">                         .......+..............+        .+</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9062;0.9219;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                     ..</text>
+<text x="0" y="98" xml:space="preserve">                    .+......                      .....</text>
+<text x="0" y="112" xml:space="preserve">                    . ............      ............  .</text>
+<text x="0" y="126" xml:space="preserve">                   . .... ..............................</text>
+<text x="0" y="140" xml:space="preserve">                  ...... ...............................</text>
+<text x="0" y="154" xml:space="preserve">                  .   ............. .  +................</text>
+<text x="0" y="168" xml:space="preserve">                 .......................................</text>
+<text x="0" y="182" xml:space="preserve">                .... .  ...... .   ....... .  ...........</text>
+<text x="0" y="196" xml:space="preserve">               ..   ...... .........   . ......... .  ...</text>
+<text x="0" y="210" xml:space="preserve">              ...............  .   .   .   .   . .....  .</text>
+<text x="0" y="224" xml:space="preserve">             +......   .   .  +..........................</text>
+<text x="0" y="238" xml:space="preserve">           ....................   .   ..   .   .    .   .</text>
+<text x="0" y="252" xml:space="preserve">          .............   .   .   .   .    .  ...........</text>
+<text x="0" y="266" xml:space="preserve">         +......................................    .  ..+</text>
+<text x="0" y="280" xml:space="preserve">              ............   .   ..   .   +............. .</text>
+<text x="0" y="294" xml:space="preserve">                  .+...+. .................   ...........+</text>
+<text x="0" y="308" xml:space="preserve">                         ............+........</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9219;0.9375;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="84" xml:space="preserve">                     .</text>
+<text x="0" y="98" xml:space="preserve">                    .......                      ......</text>
+<text x="0" y="112" xml:space="preserve">                   +..............    ............ .  .</text>
+<text x="0" y="126" xml:space="preserve">                   ....................................</text>
+<text x="0" y="140" xml:space="preserve">                  ......................................</text>
+<text x="0" y="154" xml:space="preserve">                  .  .............. . .+................</text>
+<text x="0" y="168" xml:space="preserve">                 .......................  ..............</text>
+<text x="0" y="182" xml:space="preserve">                 ..  .  ...... .   .........   ..........</text>
+<text x="0" y="196" xml:space="preserve">                . ........ .........   .  .........+.....</text>
+<text x="0" y="210" xml:space="preserve">               ........+.....  .   .   .   .   .   ..   .</text>
+<text x="0" y="224" xml:space="preserve">             ..... .   .   .  ...........................</text>
+<text x="0" y="238" xml:space="preserve">            .......+...........   ..   .   .   .    .   .</text>
+<text x="0" y="252" xml:space="preserve">          ..... ..... .   .   .   .   +...................</text>
+<text x="0" y="266" xml:space="preserve">          +... ........................    .   .    .  ..+</text>
+<text x="0" y="280" xml:space="preserve">             .............   ..   .   . ................ .</text>
+<text x="0" y="294" xml:space="preserve">                  ......+................  . ..+....+....+</text>
+<text x="0" y="308" xml:space="preserve">                        ....+................</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9375;0.9531;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    ......                      .......</text>
+<text x="0" y="112" xml:space="preserve">                   ...... ........   ............ .   .</text>
+<text x="0" y="126" xml:space="preserve">                   ..... ..............................</text>
+<text x="0" y="140" xml:space="preserve">                  ..  ............................+....</text>
+<text x="0" y="154" xml:space="preserve">                  ..........+.....  . ................+.</text>
+<text x="0" y="168" xml:space="preserve">                 .+.....................   .............</text>
+<text x="0" y="182" xml:space="preserve">                 +   .  ...... .   .........   ..........</text>
+<text x="0" y="196" xml:space="preserve">                .......... .........   .   ..............</text>
+<text x="0" y="210" xml:space="preserve">               ......  +.....  .   .   .   .   .    .   .</text>
+<text x="0" y="224" xml:space="preserve">              ...  .....   . ............................</text>
+<text x="0" y="238" xml:space="preserve">            .... ...............   .   .   .   ..   .   ..</text>
+<text x="0" y="252" xml:space="preserve">           .+.......  .   .   .   +.......................</text>
+<text x="0" y="266" xml:space="preserve">          +.. ..... ...............    .   .    .   .  ..+</text>
+<text x="0" y="280" xml:space="preserve">            ...+.........+.   .   .  .+................  ..</text>
+<text x="0" y="294" xml:space="preserve">                 ......................    ...............+</text>
+<text x="0" y="308" xml:space="preserve">                        ..............+....+</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9531;0.9688;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                    .....                      .......</text>
+<text x="0" y="112" xml:space="preserve">                   ..... ........+..............  .  .</text>
+<text x="0" y="126" xml:space="preserve">                   ... ....................+...........</text>
+<text x="0" y="140" xml:space="preserve">                  .. ..................................</text>
+<text x="0" y="154" xml:space="preserve">                  ..........+.....  .  .................</text>
+<text x="0" y="168" xml:space="preserve">                 ... .. ................   ....... .....</text>
+<text x="0" y="182" xml:space="preserve">                 .  .......... ..  ........... . .......</text>
+<text x="0" y="196" xml:space="preserve">                .......... .........   .   . ............</text>
+<text x="0" y="210" xml:space="preserve">               ...  .  ......  .   .   .   .    .   .   .</text>
+<text x="0" y="224" xml:space="preserve">              ..  ......   . ............................</text>
+<text x="0" y="238" xml:space="preserve">             .. .............. .   .   .   .    .   .   ..</text>
+<text x="0" y="252" xml:space="preserve">           ... .....  ..  ..  ............................</text>
+<text x="0" y="266" xml:space="preserve">          +. ....................  .   .   .    .   .......</text>
+<text x="0" y="280" xml:space="preserve">           ...... .........   .  .+....................   .</text>
+<text x="0" y="294" xml:space="preserve">                ........ ..........    .  ......+....+....+</text>
+<text x="0" y="308" xml:space="preserve">                       ......+............</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9688;0.9844;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                   .....                       .......</text>
+<text x="0" y="112" xml:space="preserve">                   ............................  ....+</text>
+<text x="0" y="126" xml:space="preserve">                   .. .............................. ..</text>
+<text x="0" y="140" xml:space="preserve">                  . ...................................</text>
+<text x="0" y="154" xml:space="preserve">                  ................  .  .................</text>
+<text x="0" y="168" xml:space="preserve">                 +.  .  ..... ..........   .............</text>
+<text x="0" y="182" xml:space="preserve">                 ............. ..  +............. ......</text>
+<text x="0" y="196" xml:space="preserve">                .......... .........   .    . ...........</text>
+<text x="0" y="210" xml:space="preserve">                .   .   .....  .   ....+.....   .   .   .</text>
+<text x="0" y="224" xml:space="preserve">               +.........  . ........  .   ...............</text>
+<text x="0" y="238" xml:space="preserve">             +................ .   .   .    .   .   .    .</text>
+<text x="0" y="252" xml:space="preserve">            +.......  ..   .   ...........................</text>
+<text x="0" y="266" xml:space="preserve">           ......+..............   .   .    .   .    ......</text>
+<text x="0" y="280" xml:space="preserve">           +...............   +........................   .</text>
+<text x="0" y="294" xml:space="preserve">               ........  ......    .   ....................+</text>
+<text x="0" y="308" xml:space="preserve">                      ............+....+.</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="9.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9844;1.0000;1" values="hidden;visible;hidden;hidden"/>
+<text x="0" y="98" xml:space="preserve">                   ....                       .......</text>
+<text x="0" y="112" xml:space="preserve">                   ............................  ....+</text>
+<text x="0" y="126" xml:space="preserve">                  +. ..............................  +</text>
+<text x="0" y="140" xml:space="preserve">                  ....................................+</text>
+<text x="0" y="154" xml:space="preserve">                  ................  .  ....... ........</text>
+<text x="0" y="168" xml:space="preserve">                 ..  .  +.... ..... ....   .. ......  ..</text>
+<text x="0" y="182" xml:space="preserve">                 ........ ....... ...............  .....</text>
+<text x="0" y="196" xml:space="preserve">                ....+..... .........    .   .  ..........</text>
+<text x="0" y="210" xml:space="preserve">                .  ..   .....  .   +..........  .   .   .</text>
+<text x="0" y="224" xml:space="preserve">               ..........  . .......    .   ..............</text>
+<text x="0" y="238" xml:space="preserve">              ...............  .   .    .   .   .   ..   .</text>
+<text x="0" y="252" xml:space="preserve">             .+.....   .   .  .............................</text>
+<text x="0" y="266" xml:space="preserve">            ....................   .    .   .   ..  .+.....</text>
+<text x="0" y="280" xml:space="preserve">           +..  ........... ...........................   ..</text>
+<text x="0" y="294" xml:space="preserve">              .......+   .... ..   .  ...........+....+.....</text>
+<text x="0" y="308" xml:space="preserve">                     .....+...+........</text>
+</g>
+</svg>

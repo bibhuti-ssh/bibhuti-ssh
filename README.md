@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="assets/donut.svg" alt="spinning ascii torus" width="430" />
+  <img src="assets/wave.svg" alt="ascii wave mesh building itself" width="520" />
 </div>
 
 ### hi ! i'm bibhuti
 
 - engineer who cares about art, appreciates beauty & builds with purpose.
-- co-founded **trxnd.io** · currently building at **openspline**
+- co-founded [**trxnd.**](https://trxnd.com) · [github](https://github.com/trxnd)
+- currently building [**openspline**](https://openspline.dev) · [github](https://github.com/openspline)
 - believer in open source: i contribute to what i care about, and build in the open when i can
 - recreational programmer
 - serial builder, serial shipper, rigorous researcher.
@@ -14,9 +15,9 @@
 
 ### where i've worked
 
-- **Google** · SWE intern, Bengaluru — taught a tiny model to beat Gemini at its own game (+50% F1), squeezed it onto a phone TPU (1200 ms → 40 ms), and made the jank disappear (-90%)
-- **Droidrun** · fd & cloud platform eng — worked in mobilerun foundational harness , cloud platform and application relevant to clients.  
-- **Revspot.ai** · SDE intern — turned a skewed pile of leads into a "will they convert?" oracle - built initial systems. 
+- [**Google**](https://google.com) · SWE intern, Bengaluru : taught a tiny model to beat Gemini at its own game (+50% F1), squeezed it onto a phone TPU (1200 ms → 40 ms), and made the jank disappear (-90%)
+- [**Droidrun**](https://github.com/droidrun) · fd & cloud platform eng : worked in mobilerun foundational harness , cloud platform and application relevant to clients.  
+- [**Revspot.ai**](https://revspot.ai) · SDE intern : turned a skewed pile of leads into a "will they convert?" oracle - built initial systems. 
 
 ### research
 
